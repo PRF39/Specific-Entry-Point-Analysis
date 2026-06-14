@@ -263,9 +263,10 @@ def generate_html(df: pd.DataFrame, run_dt: str) -> str:
             rscls = "rs-hi" if rs >= 90 else "rs-mid" if rs >= 85 else ""
             company = str(r.get("Company", ""))
             company = company[:30] if company != "nan" else ""
+            tv_url = f"https://www.tradingview.com/chart/?symbol={r['Ticker']}"
             parts.append(
                 f'<tr>'
-                f'<td class="tk">{r["Ticker"]}</td>'
+                f'<td class="tk"><a href="{tv_url}" target="_blank" rel="noopener">{r["Ticker"]}</a></td>'
                 f'<td class="nm">{company}</td>'
                 f'<td class="nu">${r["Price"]:,.2f}</td>'
                 f'<td class="nu {rscls}">{rs:.1f}</td>'
@@ -313,6 +314,8 @@ thead th:hover{{color:var(--t)}}
 tbody tr:hover td{{background:#ffffff0a}}
 td{{padding:.5rem .7rem;border-bottom:1px solid #21262d;vertical-align:middle}}
 .tk{{font-weight:700;color:var(--p);font-size:.9rem;white-space:nowrap}}
+.tk a{{color:inherit;text-decoration:none}}
+.tk a:hover{{text-decoration:underline}}
 .nm{{color:var(--m);font-size:.75rem;max-width:150px;
      overflow:hidden;text-overflow:ellipsis;white-space:nowrap}}
 .nu{{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}}
