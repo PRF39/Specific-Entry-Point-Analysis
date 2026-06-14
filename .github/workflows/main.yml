@@ -1,0 +1,46 @@
+name: Daily Stock Screening
+
+on:
+  schedule:
+    # 毎週月〜金の UTC 23:00 = JST 火〜土 08:00 (米国市場引け後)
+    - cron: '0 23 * * 1-5'
+  workflow_dispatch:   # GitHub UI からの手動実行も可能
+
+permissions:
+  contents: write      # 結果ファイルをリポジトリに push するため
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180   # 全米株スクリーニングは最大 3 時間
+
+    steps:
+      # ── リポジトリのチェックアウト ───────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── Python セットアップ ──────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ── 依存ライブラリのインストール ─────────────────────────
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── スクリーニング実行 ───────────────────────────────────
+      - name: Run Minervini screener
+        run: python screening.py
+
+      # ── 結果を自動コミット & プッシュ ────────────────────────
+      - name: Commit and push results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results/ docs/
+          # 差分がある場合のみコミット
+          git diff --staged --quiet || \
+            git commit -m "auto: screening $(date -u +'%Y-%m-%d')"
+          git push
