@@ -10,6 +10,10 @@ env/
 results/test_output.csv
 docs/test_report.html
 
+# code33 関連
+code33_filter.py
+docs/code33.html
+
 # OS
 .DS_Store
 Thumbs.db
