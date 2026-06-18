@@ -34,6 +34,10 @@ jobs:
       - name: Run Minervini screener
         run: python screening.py
 
+      # ── 52週新高値セクター分析 ──────────────────────────────
+      - name: Run new highs sector analysis
+        run: python new_highs_sector.py
+
       # ── 結果を自動コミット & プッシュ ────────────────────────
       - name: Commit and push results
         run: |

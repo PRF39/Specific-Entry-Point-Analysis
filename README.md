@@ -1,6 +1,6 @@
-# 📈 Minervini Trend Template Screener
+# 📈 Minervini Trend Template Screener + 52週新高値セクター分析
 
-マーク・ミネルヴィニの「トレンドテンプレート」を用いた米国株スクリーニングを毎日自動実行するシステムです。  
+マーク・ミネルヴィニの「トレンドテンプレート」を用いた米国株スクリーニングと、強気相場の初期にリーダーとなるセクターを特定する52週新高値分析を毎日自動実行するシステムです。  
 GitHub Actions で完全自動化し、結果は GitHub Pages でスマホからも確認できます。
 
 ---
@@ -22,9 +22,10 @@ https://<あなたのユーザー名>.github.io/<リポジトリ名>/
 | **銘柄取得** | Nasdaq 公式リストから全米株を自動取得・フィルタリング |
 | **RS 計算** | Minervini 式のレラティブストレングス（RS）をパーセンタイルランク化 |
 | **8 条件スクリーニング** | トレンドテンプレートの全条件を自動チェック |
+| **52週新高値セクター分析** | 高値更新銘柄が集中するセクターを自動ランキング |
 | **毎日自動実行** | GitHub Actions で JST 火〜土 8:00 に自動実行（PCは不要） |
 | **スマホ対応レポート** | ダークテーマ・ソート機能付きの HTML レポートを GitHub Pages で公開 |
-| **CSV 出力** | 日付付き CSV と最新版 `latest.csv` を `results/` に保存 |
+| **CSV 出力** | 日付付き CSV と最新版を `results/` に保存 |
 
 ---
 
@@ -34,20 +35,25 @@ https://<あなたのユーザー名>.github.io/<リポジトリ名>/
 .
 ├── .github/
 │   └── workflows/
-│       └── main.yml          # GitHub Actions ワークフロー
+│       └── main.yml                  # GitHub Actions ワークフロー
 ├── docs/
-│   └── index.html            # スマホ対応 HTML レポート（自動生成）
+│   ├── index.html                    # トレンドテンプレート結果（自動生成）
+│   └── new_highs_sector.html         # 52週新高値セクター分析（自動生成）
 ├── results/
-│   ├── latest.csv            # 最新スクリーニング結果
-│   └── screening_YYYYMMDD.csv
-├── screening.py              # メインスクリプト
+│   ├── latest.csv                    # 最新トレンドテンプレート結果
+│   ├── screening_YYYYMMDD.csv
+│   ├── new_highs_sector.csv          # 最新セクター集計
+│   ├── new_highs_stocks.csv          # 最新高値近接銘柄リスト
+│   └── sector_cache.json             # セクター情報キャッシュ
+├── screening.py                      # トレンドテンプレート スクリーニング
+├── new_highs_sector.py               # 52週新高値セクター分析
 ├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## 🔍 スクリーニング条件（トレンドテンプレート）
+## 🔍 スクリーニング 1: トレンドテンプレート（`screening.py`）
 
 以下の **8 条件をすべて満たす** 銘柄のみが通過します。
 
@@ -71,6 +77,49 @@ RS = ( (C-C63)/C63 × 0.4 + (C-C126)/C126 × 0.2
 
 `C` = 直近終値、`C63/C126/C189/C252` = 各営業日前の終値  
 全銘柄で比較し、パーセンタイルランク（上位 1% ≈ 99）に変換します。
+
+---
+
+## 📊 スクリーニング 2: 52週新高値セクター分析（`new_highs_sector.py`）
+
+強気相場の初期には、リーダーセクターが他セクターに先行して52週新高値を更新する銘柄を増やしていきます。  
+このスクリプトは全米株の中から高値圏にある銘柄を特定し、セクター別に集計してランキングします。
+
+### 判定ティア
+
+| ティア | 条件 | 意味 |
+|--------|------|------|
+| **新高値** | 52週高値の **1% 以内** | ほぼ高値更新状態 |
+| **高値近接** | 52週高値の **5% 以内** | 高値を意識した水準 |
+
+### セクター出力（`new_highs_sector.csv`）
+
+| カラム | 説明 |
+|--------|------|
+| `Sector` | セクター名 |
+| `AT_High_Count` | 新高値（1%以内）の銘柄数 |
+| `Near_High_Count` | 高値近接（5%以内）の銘柄数 |
+| `Avg_Pct_From_High` | セクター内の平均高値乖離率（%） |
+| `Top_Tickers` | 高値に最も近い上位5銘柄 |
+
+### 個別銘柄出力（`new_highs_stocks.csv`）
+
+| カラム | 説明 |
+|--------|------|
+| `Ticker` | ティッカーシンボル |
+| `Price` | 現在株価（USD） |
+| `52W_High` | 52週高値 |
+| `Pct_From_52W_High` | 52週高値からの乖離率（%） |
+| `Sector` | セクター名 |
+
+### セクターキャッシュ
+
+セクター情報は `results/sector_cache.json` にキャッシュされます。  
+キャッシュを強制更新する場合は `--refresh-cache` オプションを使用してください。
+
+```bash
+python new_highs_sector.py --refresh-cache
+```
 
 ---
 
@@ -103,6 +152,22 @@ git push -u origin main
 
 ---
 
+## 🛠️ ローカルで実行する場合
+
+```bash
+pip install -r requirements.txt
+
+# トレンドテンプレート
+python screening.py
+
+# 52週新高値セクター分析
+python new_highs_sector.py
+```
+
+結果は `results/` と `docs/` に出力されます。
+
+---
+
 ## ⏰ 自動実行スケジュール
 
 | 実行日時（JST） | 対象市場日 |
@@ -115,38 +180,10 @@ git push -u origin main
 
 ---
 
-## 📊 出力 CSV のカラム
-
-| カラム | 説明 |
-|--------|------|
-| `Ticker` | ティッカーシンボル |
-| `Company` | 企業名 |
-| `Price` | 現在株価（USD） |
-| `RS_Rank` | RS パーセンタイルランク（0〜100） |
-| `Pct_From_52W_High` | 52 週高値からの下落率（%） |
-| `MA50` | 50 日移動平均 |
-| `MA150` | 150 日移動平均 |
-| `MA200` | 200 日移動平均 |
-| `52W_High` | 52 週高値 |
-| `52W_Low` | 52 週安値 |
-
----
-
-## 🛠️ ローカルで実行する場合
-
-```bash
-pip install -r requirements.txt
-python screening.py
-```
-
-結果は `results/` と `docs/index.html` に出力されます。
-
----
-
 ## ⚠️ 注意事項
 
 - **実行時間**: 全米株（約 5,000〜7,000 銘柄）を対象にするため 30〜90 分かかります
-- **GitHub Actions 無料枠**: 月 2,000 分。週 5 日 × 約 60 分 = 月約 1,200 分で無料枠内に収まります
+- **GitHub Actions 無料枠**: 月 2,000 分。週 5 日 × 約 90 分 = 月約 1,800 分（無料枠内）
 - **データソース**: yfinance（Yahoo Finance）を使用。上場廃止やデータ欠損の銘柄は自動スキップされます
 - **投資判断**: 本ツールはスクリーニング補助目的です。投資は自己責任でお願いします
 
