@@ -1604,5 +1604,16 @@
   "FBK": "Unknown",
   "ELAN": "Unknown",
   "KEX": "Unknown",
-  "AFRI": "Unknown"
+  "AFRI": "Unknown",
+  "AEXA": "Financial Services",
+  "GGB": "Basic Materials",
+  "GENC": "Industrials",
+  "CX": "Basic Materials",
+  "ROMA": "Industrials",
+  "NRXP": "Healthcare",
+  "ABM": "Industrials",
+  "NATL": "Technology",
+  "RGS": "Consumer Cyclical",
+  "RYZ": "Industrials",
+  "KRC": "Real Estate"
 }
