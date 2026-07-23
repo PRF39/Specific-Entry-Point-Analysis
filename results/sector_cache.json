@@ -1664,5 +1664,15 @@
   "SSEA": "Unknown",
   "UTZ": "Unknown",
   "CBK": "Unknown",
-  "LSTR": "Unknown"
+  "LSTR": "Unknown",
+  "FNWD": "Financial Services",
+  "MKLY": "Financial Services",
+  "ADVB": "Healthcare",
+  "SM": "Energy",
+  "PR": "Energy",
+  "FANG": "Energy",
+  "GM": "Consumer Cyclical",
+  "PCG": "Utilities",
+  "NOV": "Energy",
+  "PBT": "Energy"
 }
