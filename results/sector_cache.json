@@ -1674,5 +1674,16 @@
   "GM": "Consumer Cyclical",
   "PCG": "Utilities",
   "NOV": "Energy",
-  "PBT": "Energy"
+  "PBT": "Energy",
+  "NVEC": "Technology",
+  "SHIP": "Industrials",
+  "MEDP": "Healthcare",
+  "AGEN": "Healthcare",
+  "DRS": "Industrials",
+  "PNFP": "Financial Services",
+  "SU": "Energy",
+  "LPG": "Energy",
+  "CASY": "Consumer Cyclical",
+  "PCRX": "Healthcare",
+  "HON": "Industrials"
 }
