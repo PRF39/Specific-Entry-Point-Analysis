@@ -1685,5 +1685,9 @@
   "LPG": "Energy",
   "CASY": "Consumer Cyclical",
   "PCRX": "Healthcare",
-  "HON": "Industrials"
+  "HON": "Industrials",
+  "STAK": "Unknown",
+  "RNG": "Unknown",
+  "THC": "Unknown",
+  "WEX": "Unknown"
 }
