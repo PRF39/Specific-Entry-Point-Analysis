@@ -1937,5 +1937,15 @@
   "HLX": "Energy",
   "STLN": "Healthcare",
   "HASI": "Financial Services",
-  "ORIC": "Healthcare"
+  "ORIC": "Healthcare",
+  "HRB": "Unknown",
+  "LEXX": "Unknown",
+  "CBLL": "Unknown",
+  "LPLA": "Unknown",
+  "BRBS": "Unknown",
+  "TLF": "Unknown",
+  "COP": "Unknown",
+  "CSCO": "Unknown",
+  "FWONK": "Unknown",
+  "FWONA": "Unknown"
 }
