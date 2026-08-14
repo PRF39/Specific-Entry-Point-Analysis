@@ -1958,5 +1958,18 @@
   "ECOR": "Unknown",
   "SLNG": "Unknown",
   "PRGS": "Unknown",
-  "GEN": "Unknown"
+  "GEN": "Unknown",
+  "UMAC": "Unknown",
+  "TPCS": "Unknown",
+  "SMXT": "Unknown",
+  "RNXT": "Unknown",
+  "RCMT": "Unknown",
+  "HTFL": "Unknown",
+  "JCAP": "Unknown",
+  "HHS": "Unknown",
+  "SILC": "Unknown",
+  "CVX": "Unknown",
+  "OVID": "Unknown",
+  "TALO": "Unknown",
+  "RNGR": "Unknown"
 }
