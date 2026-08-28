@@ -2062,5 +2062,10 @@
   "GPC": "Unknown",
   "DJCO": "Unknown",
   "CTW": "Unknown",
-  "NXPL": "Unknown"
+  "NXPL": "Unknown",
+  "LATA": "Financial Services",
+  "TJGC": "Communication Services",
+  "BIVI": "Healthcare",
+  "CRM": "Technology",
+  "PATH": "Technology"
 }
