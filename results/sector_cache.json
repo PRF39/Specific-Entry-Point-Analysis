@@ -2067,5 +2067,18 @@
   "TJGC": "Communication Services",
   "BIVI": "Healthcare",
   "CRM": "Technology",
-  "PATH": "Technology"
+  "PATH": "Technology",
+  "VEEA": "Unknown",
+  "CHGA": "Unknown",
+  "VBIO": "Unknown",
+  "OMH": "Unknown",
+  "NXL": "Unknown",
+  "LGVN": "Unknown",
+  "HCWC": "Unknown",
+  "CHEC": "Unknown",
+  "ESTC": "Unknown",
+  "PAYX": "Unknown",
+  "TRMD": "Unknown",
+  "REPX": "Unknown",
+  "CXM": "Unknown"
 }
