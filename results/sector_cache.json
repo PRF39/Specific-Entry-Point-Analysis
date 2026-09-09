@@ -2103,5 +2103,7 @@
   "HSCS": "Unknown",
   "AGCO": "Unknown",
   "NVGS": "Unknown",
-  "QRVO": "Unknown"
+  "QRVO": "Unknown",
+  "CTSO": "Unknown",
+  "PRTS": "Unknown"
 }
