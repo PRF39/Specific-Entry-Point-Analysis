@@ -2105,5 +2105,11 @@
   "NVGS": "Unknown",
   "QRVO": "Unknown",
   "CTSO": "Unknown",
-  "PRTS": "Unknown"
+  "PRTS": "Unknown",
+  "ALIS": "Financial Services",
+  "MNTK": "Basic Materials",
+  "KRSA": "Healthcare",
+  "DNMX": "Financial Services",
+  "DV": "Communication Services",
+  "TORO": "Energy"
 }
