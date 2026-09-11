@@ -2111,5 +2111,16 @@
   "KRSA": "Healthcare",
   "DNMX": "Financial Services",
   "DV": "Communication Services",
-  "TORO": "Energy"
+  "TORO": "Energy",
+  "BRTX": "Unknown",
+  "ETS": "Industrials",
+  "GTBP": "Healthcare",
+  "SFWL": "Industrials",
+  "IRD": "Healthcare",
+  "BCSS": "Financial Services",
+  "OST": "Technology",
+  "MSGM": "Communication Services",
+  "BPH": "Unknown",
+  "MNOV": "Healthcare",
+  "MEOH": "Basic Materials"
 }
