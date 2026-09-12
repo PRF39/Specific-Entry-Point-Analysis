@@ -2122,5 +2122,12 @@
   "MSGM": "Communication Services",
   "BPH": "Unknown",
   "MNOV": "Healthcare",
-  "MEOH": "Basic Materials"
+  "MEOH": "Basic Materials",
+  "SWKS": "Unknown",
+  "NFE": "Unknown",
+  "APAC": "Unknown",
+  "CBC": "Unknown",
+  "CBZ": "Unknown",
+  "EGY": "Unknown",
+  "MTDR": "Energy"
 }
