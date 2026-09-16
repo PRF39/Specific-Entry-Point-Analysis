@@ -2136,5 +2136,9 @@
   "KRSP": "Unknown",
   "TEVA": "Unknown",
   "WFC": "Unknown",
-  "HOG": "Unknown"
+  "HOG": "Unknown",
+  "OPTT": "Industrials",
+  "HMR": "Industrials",
+  "MRDN": "Consumer Cyclical",
+  "WF": "Financial Services"
 }
