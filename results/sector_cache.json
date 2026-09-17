@@ -2140,5 +2140,10 @@
   "OPTT": "Industrials",
   "HMR": "Industrials",
   "MRDN": "Consumer Cyclical",
-  "WF": "Financial Services"
+  "WF": "Financial Services",
+  "NRSN": "Unknown",
+  "SDGR": "Unknown",
+  "HLP": "Unknown",
+  "WCCB": "Unknown",
+  "WFG": "Unknown"
 }
