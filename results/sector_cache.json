@@ -2152,5 +2152,13 @@
   "VRA": "Unknown",
   "IPDN": "Unknown",
   "SBC": "Unknown",
-  "MCI": "Unknown"
+  "MCI": "Unknown",
+  "PRTH": "Unknown",
+  "EVOX": "Unknown",
+  "DMII": "Unknown",
+  "CBAT": "Unknown",
+  "META": "Unknown",
+  "VRME": "Unknown",
+  "PURR": "Unknown",
+  "EPRX": "Unknown"
 }
