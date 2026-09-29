@@ -2173,5 +2173,14 @@
   "SRZN": "Unknown",
   "DC": "Unknown",
   "SVRN": "Unknown",
-  "SGHT": "Unknown"
+  "SGHT": "Unknown",
+  "MGLD": "Unknown",
+  "BTLN": "Unknown",
+  "CRAC": "Unknown",
+  "AMC": "Communication Services",
+  "NTWK": "Technology",
+  "XERS": "Healthcare",
+  "DDS": "Consumer Cyclical",
+  "NVAX": "Healthcare",
+  "CRVL": "Financial Services"
 }
