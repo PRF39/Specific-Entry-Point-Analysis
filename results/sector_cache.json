@@ -2182,5 +2182,9 @@
   "XERS": "Healthcare",
   "DDS": "Consumer Cyclical",
   "NVAX": "Healthcare",
-  "CRVL": "Financial Services"
+  "CRVL": "Financial Services",
+  "MTNB": "Unknown",
+  "UCFI": "Unknown",
+  "KBSX": "Unknown",
+  "AFCG": "Unknown"
 }
