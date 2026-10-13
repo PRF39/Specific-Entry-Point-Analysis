@@ -1,405 +1,404 @@
 Ticker,Company,Price,RS_Rank,Pct_From_52W_High,MA50,MA150,MA200,52W_High,52W_Low
-TJGC,TJGC Group Limited - Class A Ordinary Shares,33.28,99.9,-4.4,13.79,7.34,6.26,34.79,1.5
-IOVA,"Iovance Biotherapeutics, Inc. - Common Stock",14.62,99.7,-1.3,9.15,5.72,5.01,14.82,1.81
-MRNA,"Moderna, Inc. - Common Stock",225.0,99.7,0.0,138.26,82.58,72.63,225.0,22.36
-TXG,"10x Genomics, Inc. - Common Stock",80.65,99.5,-17.5,68.35,41.95,36.41,97.74,11.47
-KOD,Kodiak Sciences Inc - Common Stock,99.87,99.4,0.0,48.96,41.12,37.33,99.87,11.6
-MXL,"MaxLinear, Inc - Common Stock",96.16,99.4,-24.9,76.5,68.22,55.74,128.03,13.05
-QMCO,Quantum Corporation - Common Stock,30.43,99.4,-11.8,23.86,14.0,12.1,34.5,4.31
-DELL,Dell Technologies Inc. Class C Common Stock ,586.06,99.3,-0.4,505.65,364.13,303.8,588.4,110.54
-CDNA,"CareDx, Inc. - Common Stock",63.67,99.3,-8.8,53.05,33.33,29.88,69.85,14.28
-RCEL,"Avita Medical, Inc. - Common Stock",13.21,99.3,-0.9,9.99,6.25,5.71,13.33,3.27
-TWST,Twist Bioscience Corporation - Common Stock,159.78,99.3,-22.1,143.66,92.86,80.44,205.0,25.45
-VNCE,Vince Holding Corp. - Common Stock,11.09,99.2,-17.0,8.0,5.72,5.06,13.36,1.99
-LITE,Lumentum Holdings Inc. - Common Stock,1103.35,99.2,-2.7,920.34,858.5,764.19,1133.4,149.61
-ABLV,Able View Global Inc. - Class B Ordinary Shares,2.39,99.2,-12.8,1.18,0.98,0.92,2.74,0.58
-PLSE,"Pulse Biosciences, Inc - Common Stock",53.81,99.1,-2.5,48.6,32.49,28.63,55.2,12.66
-IBRX,"ImmunityBio, Inc. - Common Stock",10.51,99.0,-9.0,8.3,7.92,7.4,11.55,1.98
-OABI,"OmniAb, Inc. - Common Stock",4.79,99.0,-5.0,4.13,2.7,2.48,5.04,1.36
-SILC,Silicom Ltd - Ordinary Shares,58.92,99.0,-4.4,46.71,39.38,33.92,61.65,13.5
-MU,"Micron Technology, Inc. - Common Stock",1029.0,99.0,-15.2,976.19,810.26,701.57,1213.37,181.42
-PENG,"Penguin Solutions, Inc. - Common Stock",76.28,98.9,-6.3,55.19,48.09,40.96,81.39,16.24
-ECO,Okeanis Eco Tankers Corp. Common Stock,93.11,98.9,-1.4,71.71,55.12,50.24,94.44,24.74
-TOP,TOP Financial Group Limited - Class A Ordinary Shares,14.92,98.8,-10.8,14.08,8.71,7.82,16.73,3.11
-HPE,Hewlett Packard Enterprise Company Common Stock,73.46,98.8,0.0,58.08,43.2,37.9,73.46,19.67
-HLP,Hongli Group Inc. - Class A Ordinary Shares,2.54,98.8,-0.4,1.67,1.12,1.08,2.55,0.43
-PAYS,"Paysign, Inc. - Common Stock",15.37,98.8,0.0,12.9,8.73,7.59,15.37,3.18
-FIRY,Firy Inc. Class A Common Stock,12.07,98.7,-7.9,10.63,8.0,6.97,13.1,2.28
-OKTA,"Okta, Inc. - Class A Common Stock",232.13,98.7,0.0,173.11,125.52,115.42,232.13,62.93
-RNG,"RingCentral, Inc. Class A Common Stock",79.27,98.7,-0.7,70.33,50.45,45.29,79.82,24.69
-SAIH,SAIHEAT Limited - Class A Ordinary Shares,25.61,98.6,-19.2,24.27,15.5,13.58,31.7,5.93
-OMER,Omeros Corporation - Common Stock,19.83,98.6,-5.8,17.72,13.49,13.24,21.05,4.1
-SIF,"SIFCO Industries, Inc. Common Stock",23.75,98.5,-15.9,22.31,19.91,17.03,28.23,5.4
-RLYB,Rallybio Corporation - Common Stock,17.02,98.4,-1.2,16.78,14.21,12.13,17.22,4.09
-ABSI,Absci Corporation - Common Stock,10.16,98.4,-12.6,9.26,7.03,6.03,11.62,2.3
-MRVL,"Marvell Technology, Inc. - Common Stock",275.28,98.4,-13.0,236.44,201.76,171.7,316.28,73.66
-PXS,Pyxis Tankers Inc. - Common Stock,7.79,98.3,-3.8,6.16,4.98,4.58,8.1,2.62
-P,"Everpure, Inc. Class A common stock",154.49,98.2,0.0,109.7,84.35,80.66,154.49,56.99
-PBF,PBF Energy Inc. Class A Common Stock,84.27,98.2,-5.7,73.68,54.99,49.41,89.34,25.55
-FSLY,"Fastly, Inc. - Class A Common Stock",29.3,98.1,-12.5,24.85,23.0,20.36,33.5,7.86
-FRO,Frontline Plc Ordinary Shares,56.1,98.1,-0.3,44.29,36.83,33.84,56.26,17.91
-TTRX,Turn Therapeutics Inc. - Common Stock,12.0,98.1,-21.8,11.43,7.35,6.51,15.34,2.71
-INSW,"International Seaways, Inc. Common Stock ",119.82,98.1,-1.6,100.41,82.76,75.14,121.82,37.13
-COHU,"Cohu, Inc. - Common Stock",68.19,98.1,-7.7,57.14,50.46,45.0,73.91,19.94
-CLMT,"Calumet, Inc - Common Stock",56.42,98.0,-4.5,51.33,40.08,36.01,59.05,17.68
-CORT,Corcept Therapeutics Incorporated - Common Stock,121.19,98.0,-1.9,115.18,80.36,70.86,123.57,32.15
-CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",275.04,97.9,-1.4,228.7,173.65,157.32,278.86,87.56
-UMC,United Microelectronics Corporation (NEW) Common Stock,22.96,97.9,-16.6,21.41,18.2,16.04,27.53,6.9
-TKNO,"Alpha Teknova, Inc. - Common Stock",8.84,97.9,-5.3,7.5,5.2,4.64,9.33,1.99
-AMD,"Advanced Micro Devices, Inc. - Common Stock",608.1,97.9,-6.4,528.92,441.22,385.32,649.42,190.95
-SMTC,Semtech Corporation - Common Stock,187.3,97.9,-5.0,153.59,132.4,119.9,197.2,62.57
-MPC,Marathon Petroleum Corporation Common Stock,455.03,97.8,-1.8,378.74,295.18,267.49,463.34,160.76
-FET,"Forum Energy Technologies, Inc. Common Stock",84.61,97.7,-3.2,80.49,63.73,59.46,87.37,25.26
-NNBR,"NN, Inc. - Common Stock",3.95,97.6,-12.4,3.68,2.9,2.55,4.51,1.14
-DRTS,Alpha Tau Medical Ltd. - Ordinary Shares,14.41,97.6,-7.0,14.37,11.11,10.04,15.5,3.47
-DINO,HF Sinclair Corporation Common Stock,121.3,97.6,0.0,102.03,79.55,72.27,121.3,44.83
-ILMN,"Illumina, Inc. - Common Stock",278.17,97.6,-5.3,226.92,176.79,166.27,293.69,91.0
-NAT,Nordic American Tankers Limited Common Stock,8.47,97.5,-1.3,7.14,5.96,5.44,8.58,2.85
-LIND,Lindblad Expeditions Holdings Inc.  - Common Stock,35.82,97.5,-0.7,30.51,24.69,22.89,36.08,11.45
-KRT,Karat Packaging Inc. - Common Stock,54.58,97.5,-0.2,49.0,36.06,32.92,54.68,19.72
-TWLO,Twilio Inc. Class A Common Stock,289.47,97.4,-3.9,246.39,198.12,179.71,301.27,106.23
-VLO,Valero Energy Corporation Common Stock,433.75,97.4,-2.3,367.5,291.32,265.57,443.8,153.14
-FTNT,"Fortinet, Inc. - Common Stock",194.75,97.3,0.0,167.37,134.97,121.3,194.75,75.23
-VAI,Valor Energy Incorporated - Common Stock,2.74,97.3,0.0,1.89,1.51,1.43,2.74,1.02
-FOSL,"Fossil Group, Inc. - Common Stock",7.15,97.2,-1.0,5.71,4.82,4.6,7.22,1.79
-NTAP,"NetApp, Inc. - Common Stock",237.15,97.2,0.0,197.83,154.22,141.01,237.15,93.14
-BE,Bloom Energy Corporation Class A Common Stock,280.5,97.2,-18.9,246.48,236.8,212.43,345.85,76.97
-DHX,"DHI Group, Inc. Common Stock",5.1,97.1,0.0,4.46,3.69,3.28,5.1,1.5
-CVI,CVR Energy Inc. Common Stock,58.02,97.0,-2.6,44.6,36.02,32.95,59.54,20.59
-HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,34.76,97.0,-10.5,32.43,24.0,22.54,38.83,13.43
-ASST,"Strive, Inc. - Class A Common Stock",27.8,96.9,-23.2,22.7,16.52,15.82,36.2,7.16
-GTE,Gran Tierra Energy Inc. Common Stock,10.58,96.9,-3.9,9.83,8.53,7.74,11.01,3.43
-CRSR,"Corsair Gaming, Inc. - Common Stock",13.63,96.9,-5.0,12.65,9.4,8.45,14.35,4.58
-PANW,"Palo Alto Networks, Inc. - Common Stock",418.78,96.8,-0.3,370.85,283.85,255.92,419.91,141.67
-PKOH,Park-Ohio Holdings Corp. - Common Stock,49.03,96.8,-6.6,46.38,36.09,33.04,52.51,18.51
-PUBM,"PubMatic, Inc. - Class A Common Stock",18.64,96.7,-2.8,16.97,12.73,11.46,19.18,6.28
-AMWL,American Well Corporation Class A Common Stock,12.7,96.7,-8.4,12.67,9.43,8.31,13.87,3.78
-MGLD,"The Marygold Companies, Inc. Common Stock",2.02,96.7,-0.5,1.24,1.16,1.13,2.03,0.87
-LPG,Dorian LPG Ltd. Common Stock,57.64,96.6,-1.1,51.83,42.29,38.87,58.31,22.34
-HNGE,"Hinge Health, Inc. Class A Common Stock",102.9,96.6,0.0,90.95,69.25,62.43,102.9,31.17
-SIMO,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",263.9,96.6,-21.5,259.79,235.1,205.7,336.22,79.53
-DDOG,"Datadog, Inc. - Class A Common Stock",293.26,96.5,0.0,246.88,209.48,188.31,293.26,102.61
-AMPL,"Amplitude, Inc. - Class A Common Stock",15.67,96.5,0.0,13.07,9.28,9.23,15.67,5.61
-RBRK,"Rubrik, Inc. Class A Common Stock",125.14,96.5,-0.5,101.29,76.69,73.02,125.8,43.81
-DK,"Delek US Holdings, Inc. Common Stock",74.51,96.5,-8.6,70.68,55.12,49.3,81.55,26.26
-PGEN,"Precigen, Inc. - Common Stock",7.81,96.4,-8.8,7.24,5.34,5.09,8.56,3.1
-NTRA,"Natera, Inc. - Common Stock",400.71,96.4,-5.9,345.42,263.23,253.39,425.64,169.27
-FIVN,"Five9, Inc. - Common Stock",36.4,96.3,-5.8,33.21,24.51,22.94,38.65,13.61
-RSKD,Riskified Ltd. Class A Ordinary Shares,8.53,96.2,0.0,6.51,5.29,5.12,8.53,3.79
-HZO,"MarineMax, Inc.  (FL) Common Stock",52.37,96.2,-0.4,50.24,37.84,35.36,52.56,21.43
-HMR,Heidmar Maritime Holdings Corp. - Common Stock,1.84,96.2,-2.4,1.49,1.19,1.13,1.88,0.77
-XMTR,"Xometry, Inc. - Class A Common Stock",111.07,96.1,0.0,94.35,78.52,73.59,111.07,36.1
-FRD,Friedman Industries Inc. - Common Stock,41.98,96.1,-12.7,41.91,30.51,27.76,48.08,16.96
-HAE,Haemonetics Corporation Common Stock,118.69,96.1,-0.7,101.61,77.94,75.75,119.47,48.58
-MRVI,"Maravai LifeSciences Holdings, Inc. - Class A common stock",7.44,96.1,-17.3,7.17,5.45,4.95,9.0,2.83
-SNOW,Snowflake Inc. Common Stock,368.89,96.1,0.0,330.25,243.06,231.05,368.89,121.11
-AGPU,Axe Compute Inc. - Common Stock,11.68,96.0,-18.1,10.57,7.23,6.49,14.27,1.41
-EXFY,"Expensify, Inc. - Class A Common Stock",2.4,96.0,-11.8,2.32,1.58,1.52,2.72,0.75
-GTLB,GitLab Inc. - Class A Common Stock,55.09,96.0,0.0,45.43,32.7,32.68,55.09,19.42
-USIO,"Usio, Inc. - Common Stock",2.78,96.0,-5.4,2.55,1.9,1.76,2.94,1.05
-CMBT,CMB.TECH NV Ordinary Shares,20.6,95.9,-1.0,18.46,15.44,14.46,20.81,8.6
-TRMD,TORM plc - Class A Common Stock,39.94,95.9,-2.7,32.63,28.91,27.08,41.05,16.82
-PSX,Phillips 66 Common Stock,278.18,95.9,-1.2,247.03,200.14,186.09,281.6,123.11
-JRSH,"Jerash Holdings (US), Inc. - Common Stock",6.15,95.8,0.0,5.48,4.23,3.93,6.15,2.78
-MTW,"Manitowoc Company, Inc. (The) Common Stock",21.67,95.8,-7.8,20.19,15.21,14.84,23.51,10.0
-SMWB,Similarweb Ltd. Ordinary Shares,9.05,95.8,-2.6,8.27,5.5,5.39,9.29,2.33
-MEI,"Methode Electronics, Inc. Common Stock",15.55,95.7,-19.7,15.32,12.15,11.06,19.36,5.0
-KRSA,"Korsana Biosciences, Inc. - Common Stock",33.92,95.7,-24.0,29.39,23.92,20.35,44.66,7.56
-PSNL,"Personalis, Inc. - Common Stock",16.0,95.6,-12.9,15.81,11.36,10.73,18.38,5.04
-VSTS,Vestis Corporation Common Stock,14.13,95.6,-14.4,13.47,12.08,10.84,16.5,4.62
-CAKE,The Cheesecake Factory Incorporated - Common Stock,108.45,95.5,-7.5,106.84,80.48,75.02,117.29,42.61
-HTFL,"Heartflow, Inc. - Common Stock",49.74,95.5,-4.7,44.54,33.66,32.37,52.21,20.49
-SDGR,"Schrodinger, Inc. - Common Stock",27.28,95.5,-16.3,22.64,16.65,16.23,32.6,11.07
-AMC,"AMC Entertainment Holdings, Inc. Class A Common Stock",2.98,95.5,-9.4,2.68,2.02,1.87,3.29,0.95
-LCUT,"Lifetime Brands, Inc. - Common Stock",9.52,95.4,-3.8,9.0,7.84,6.77,9.9,2.91
-JILL,"J. Jill, Inc. Common Stock",24.51,95.4,-1.3,21.5,16.5,16.31,24.84,10.81
-ALNT,Allient Inc. - Common Stock,109.91,95.3,-7.4,103.04,85.56,79.69,118.63,45.81
-FROG,JFrog Ltd. - Ordinary shares,102.23,95.3,-1.7,91.83,74.61,69.22,104.03,34.75
-NSIT,"Insight Enterprises, Inc. - Common Stock",163.61,95.3,-1.1,154.12,114.01,106.61,165.37,64.43
-TISI,"Team, Inc. Common Stock",26.16,95.3,-10.0,24.71,19.16,17.93,29.06,12.65
-NET,"Cloudflare, Inc. Class A Common Stock",360.93,95.2,0.0,316.02,257.18,239.1,360.93,160.19
-QLYS,"Qualys, Inc. - Common Stock",202.42,95.2,0.0,180.44,132.28,129.14,202.42,76.2
-UTZ,Utz Brands Inc Class A Common Stock ,14.3,95.2,-0.1,14.16,10.02,9.96,14.32,6.71
-ZETA,Zeta Global Holdings Corp. Class A Common Stock,33.09,95.1,-1.9,29.65,22.47,21.65,33.74,14.55
-EHLD,Euroholdings Ltd. - Common Stock,12.22,95.1,-22.2,11.06,8.96,8.33,15.7,5.89
-RRGB,"Red Robin Gourmet Burgers, Inc. - Common Stock",8.61,95.1,-18.7,8.39,6.0,5.49,10.59,2.59
-CIX,CompX International Inc. Common Stock,39.26,95.1,-0.6,34.24,27.46,26.31,39.48,19.62
-HHS,"Harte Hanks, Inc. - Common Stock",4.45,95.0,-4.3,3.94,3.01,3.0,4.65,2.0
-KNSA,"Kiniksa Pharmaceuticals International, plc - Class A Ordinary Shares",79.78,94.9,-1.4,77.5,61.69,57.1,80.92,37.01
-RCMT,"RCM Technologies, Inc. - Common Stock",41.38,94.9,-1.5,38.28,29.92,27.35,42.02,17.55
-MASS,908 Devices Inc. - Common Stock,12.05,94.8,-5.9,10.48,8.44,7.88,12.8,5.09
-OPRT,Oportun Financial Corporation - common stock,8.92,94.8,0.0,7.73,6.11,5.91,8.92,4.13
-FLXS,"Flexsteel Industries, Inc. - Common Stock",85.17,94.7,-4.4,81.05,65.37,60.39,89.11,33.65
-PRCH,"Porch Group, Inc. - Common Stock",17.56,94.7,-2.8,16.71,12.4,11.38,18.06,6.4
-PBT,Permian Basin Royalty Trust Common Stock,34.86,94.7,-3.4,33.53,27.82,25.48,36.09,16.36
-S,"SentinelOne, Inc. Class A Common Stock",26.27,94.7,0.0,22.24,17.93,16.96,26.27,11.94
-CLOV,"Clover Health Investments, Corp.  - Class A Common stock",4.79,94.6,-11.5,4.42,3.74,3.38,5.41,1.7
-VRA,"Vera Bradley, Inc. - Common Stock",5.14,94.6,0.0,3.74,3.67,3.41,5.14,1.8
-TH,Target Hospitality Corp. - Common Stock,18.41,94.5,-14.2,18.4,16.45,14.23,21.45,6.22
-ATRC,"AtriCure, Inc. - Common Stock",55.81,94.4,-8.2,50.69,36.74,36.67,60.77,25.86
-TER,"Teradyne, Inc. - Common Stock",402.68,94.4,-16.7,382.81,366.66,340.51,483.65,131.82
-LFST,"LifeStance Health Group, Inc. - Common Stock",12.42,94.4,-7.2,12.16,9.53,8.93,13.38,4.81
-CHEF,"The Chefs' Warehouse, Inc. - Common Stock",114.32,94.3,-1.8,111.09,89.68,83.45,116.42,56.12
-PD,"PagerDuty, Inc. Common Stock",16.16,94.3,-1.2,13.46,9.81,9.8,16.35,5.73
-RELL,"Richardson Electronics, Ltd. - Common Stock",20.79,94.3,-4.4,18.25,16.23,15.08,21.76,9.31
-PARR,"Par Pacific Holdings, Inc.  Common Stock",81.89,94.2,-6.6,80.08,67.94,60.82,87.65,33.28
-ADPT,Adaptive Biotechnologies Corporation - Common Stock,26.49,94.1,-11.2,26.02,19.63,18.92,29.84,12.41
-HQI,"HireQuest, Inc. - Common Stock",17.2,94.1,-14.2,16.75,13.42,12.79,20.04,7.49
-AOUT,"American Outdoor Brands, Inc. - Common Stock",16.5,94.1,-6.0,13.86,11.51,10.84,17.55,6.36
-OSCR,"Oscar Health, Inc. Class A Common Stock",33.37,94.0,-1.3,31.05,24.94,22.37,33.81,10.85
-TK,Teekay Corporation Ltd. Common Stock,15.27,94.0,-0.7,13.35,12.14,11.55,15.37,7.31
-AAMI,Acadian Asset Management Inc. Common Stock,93.71,93.9,-3.6,92.12,76.55,70.45,97.2,41.74
-FIGS,"FIGS, Inc. Class A Common Stock",15.78,93.9,-7.8,13.79,13.14,12.84,17.12,6.9
-TENB,"Tenable Holdings, Inc. - Common Stock",41.59,93.9,-2.5,35.89,29.06,27.27,42.65,16.04
-MRX,Marex Group Limited - Ordinary Shares,71.92,93.9,-8.1,70.83,59.61,54.63,78.27,29.51
-MNTK,"Montauk Renewables, Inc. - Common Stock",2.53,93.8,-13.9,2.2,1.73,1.7,2.94,1.12
-FTRE,Fortrea Holdings Inc. - Common Stock,20.84,93.8,-1.3,18.91,15.51,15.28,21.11,8.87
-DAC,Danaos Corporation Common Stock,169.09,93.8,-0.7,152.48,132.68,124.85,170.22,82.21
-PAYC,"Paycom Software, Inc. Common Stock",232.22,93.8,-3.5,220.03,161.59,155.94,240.52,113.1
-GCT,GigaCloud Technology Inc - Class A Ordinary Shares,57.26,93.7,0.0,51.69,43.5,42.59,57.26,25.46
-WEYS,"Weyco Group, Inc. - Common Stock",51.46,93.7,-1.1,45.84,38.62,36.63,52.02,25.58
-OBIO,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",5.95,93.7,-6.3,5.35,4.52,4.44,6.35,2.87
-AVT,"Avnet, Inc. - Common Stock",99.36,93.7,-7.1,95.1,84.07,77.34,106.94,43.47
-RDI,Reading International Inc - Class A Non-voting Common Stock,1.89,93.6,-19.2,1.88,1.42,1.33,2.34,1.0
-CON,"Concentra Group Holdings Parent, Inc. Common Stock",37.19,93.5,0.0,34.59,28.67,26.97,37.19,18.52
-HALO,"Halozyme Therapeutics, Inc. - Common Stock",110.42,93.5,-4.2,105.65,81.75,79.42,115.22,61.63
-NVEC,NVE Corporation - Common Stock,113.82,93.4,-14.5,109.69,94.89,87.37,133.06,55.46
-HBIO,"Harvard Bioscience, Inc. - Common Stock",8.24,93.4,-3.7,7.57,6.43,6.3,8.56,3.8
-SOTK,Sono-Tek Corporation - Common Stock,7.08,93.3,0.0,5.25,4.97,4.76,7.08,3.6
-HPK,"HighPeak Energy, Inc. - Common Stock",9.55,93.3,0.0,7.95,7.24,6.61,9.55,3.89
-RVTY,"Revvity, Inc. Common Stock",154.18,93.2,-2.0,132.09,109.24,107.62,157.36,82.21
-APA,APA Corporation - Common Stock,45.88,93.1,-3.2,42.46,38.61,35.58,47.41,21.16
-RDVT,"Red Violet, Inc. - Common Stock ",79.78,93.0,-0.6,73.75,57.77,55.14,80.25,34.4
-NTWK,NETSOL Technologies Inc. - Common Stock,5.93,93.0,-5.3,4.54,4.2,3.96,6.26,2.8
-CURV,Torrid Holdings Inc. Common Stock,2.54,93.0,-7.6,2.34,1.98,1.76,2.75,0.97
-FNKO,"Funko, Inc. - Class A Common Stock",6.44,93.0,-9.3,5.89,5.17,4.88,7.1,2.81
-KEYS,Keysight Technologies Inc. Common Stock,382.75,93.0,-1.4,341.39,331.51,307.04,388.03,159.49
-WEST,Westrock Coffee Company - Common Stock,8.18,92.9,-15.9,8.06,7.17,6.51,9.73,3.71
-ECPG,Encore Capital Group Inc - Common Stock,99.77,92.9,-3.8,98.26,86.92,79.75,103.74,40.53
-PRLB,"Proto Labs, Inc. Common stock",93.84,92.9,-4.9,86.45,75.05,70.71,98.68,46.81
-NVAX,"Novavax, Inc. - Common Stock",12.75,92.8,0.0,9.53,9.16,9.01,12.75,6.22
-ARW,"Arrow Electronics, Inc. Common Stock",227.9,92.8,-5.8,217.72,200.01,183.22,242.01,101.87
-SN,"SharkNinja, Inc. Ordinary Shares",184.98,92.8,-4.1,178.14,141.98,136.68,192.86,84.57
-DT,"Dynatrace, Inc. Common Stock",63.5,92.8,0.0,53.26,44.32,42.99,63.5,32.36
-IDT,IDT Corporation Class B Common Stock,81.49,92.8,0.0,69.99,59.42,57.02,81.49,46.42
-MATX,"Matson, Inc. Common Stock",225.67,92.7,-5.4,221.93,196.03,184.67,238.6,87.23
-CBRL,"Cracker Barrel Old Country Store, Inc. - Common Stock",57.46,92.7,-2.7,53.96,42.68,39.58,59.04,24.52
-RXO,"RXO, Inc. Common Stock",29.08,92.6,-0.8,21.76,21.62,19.93,29.3,10.48
-VIR,"Vir Biotechnology, Inc. - Common Stock",11.7,92.5,-0.7,10.41,9.78,9.16,11.78,5.12
-DGII,Digi International Inc. - Common Stock,75.63,92.5,-11.3,75.08,65.74,60.71,85.24,35.37
-SB,"Safe Bulkers, Inc Common Stock ($0.001 par value)",8.53,92.4,-7.1,8.36,7.17,6.74,9.18,4.03
-IBTA,"Ibotta, Inc. Class A Common Stock",43.07,92.4,-0.5,38.54,33.88,30.96,43.28,19.25
-VCTR,"Victory Capital Holdings, Inc. - Common Stock",112.44,92.4,-6.8,111.13,90.81,85.25,120.59,59.26
-PBYI,Puma Biotechnology Inc - Common Stock,10.29,92.3,0.0,9.23,7.93,7.58,10.29,4.73
-CRL,"Charles River Laboratories International, Inc. Common Stock",301.79,92.3,-2.9,283.17,218.21,212.62,310.77,149.93
-ASC,Ardmore Shipping Corporation Common Stock,19.28,92.2,-1.0,17.72,16.21,15.17,19.47,9.69
-NUTX,Nutex Health Inc. - Common Stock,206.29,92.2,-8.3,194.39,151.47,148.24,225.0,87.01
-MG,Mistras Group Inc Common Stock,20.77,92.2,-3.8,19.18,17.63,16.78,21.59,9.39
-STLN,"Starling Oncology, Inc. - Common Stock",6.63,92.2,-6.0,6.25,4.93,4.48,7.05,2.38
-MSGM,Motorsport Games Inc. - Class A Common Stock,5.13,92.1,-4.6,4.4,4.32,4.13,5.38,2.19
-MGNI,"Magnite, Inc. - Common Stock",25.4,92.1,-1.1,23.96,18.07,17.09,25.67,11.2
-ZBRA,Zebra Technologies Corporation - Class A Common Stock,387.18,92.1,0.0,361.6,278.64,270.42,387.18,199.3
-HUM,Humana Inc. Common Stock,431.87,92.0,0.0,388.02,321.12,296.18,431.87,162.46
-SM,SM Energy Company Common Stock,37.0,92.0,-10.4,35.14,31.37,28.51,41.29,17.2
-SMTI,Sanara MedTech Inc. - Common Stock,35.07,92.0,-0.6,34.69,25.8,24.77,35.28,16.34
-AVTR,"Avantor, Inc. Common Stock",15.67,91.9,-1.2,14.64,10.88,10.84,15.86,7.41
-REPX,"Riley Exploration Permian, Inc. Common Stock",45.37,91.9,0.0,39.64,36.27,33.92,45.37,23.36
-CYRX,"CryoPort, Inc. - Common Stock",17.35,91.9,-4.4,16.27,13.84,12.74,18.14,7.72
-SND,"Smart Sand, Inc. - Common Stock",5.28,91.8,-7.3,5.02,4.82,4.69,5.7,1.92
-MLAB,"Mesa Laboratories, Inc. - Common Stock",127.51,91.8,-10.3,122.33,105.24,100.58,142.23,67.29
-FEIM,"Frequency Electronics, Inc. - Common Stock",75.09,91.8,-15.6,74.05,64.35,61.56,89.0,27.07
-NTNX,"Nutanix, Inc. - Class A Common Stock",74.63,91.7,0.0,67.53,53.35,51.08,74.63,34.41
-MWYN,"Marwynn Holdings, Inc. - Common stock",1.37,91.7,-6.8,1.06,0.91,0.89,1.47,0.49
-PDFS,"PDF Solutions, Inc. - Common Stock",54.4,91.7,-23.2,47.86,47.55,43.68,70.79,23.97
-AMRX,"Amneal Pharmaceuticals, Inc. - Class A Common Stock",19.91,91.6,-2.9,18.47,15.68,15.19,20.5,9.72
-ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,29.99,91.6,-1.7,28.36,26.55,25.66,30.51,12.03
-PCRX,"Pacira BioSciences, Inc. - Common Stock",36.31,91.6,-0.2,25.56,24.48,23.98,36.39,19.16
-BHE,"Benchmark Electronics, Inc. Common Stock",81.47,91.5,-17.3,78.14,76.6,70.38,98.47,35.58
-TWIN,"Twin Disc, Incorporated - Common Stock",26.26,91.4,-8.6,24.71,20.67,19.84,28.72,14.12
-INFU,"InfuSystems Holdings, Inc. Common Stock",13.56,91.3,0.0,12.34,10.43,9.95,13.56,7.42
-NHC,National HealthCare Corporation Common Stock,227.11,91.3,-3.8,223.36,198.52,185.85,236.04,115.7
-DAVE,Dave Inc.  - Class A Common Stock,368.42,91.2,-16.7,353.38,305.03,277.52,442.53,155.92
-TEVA,Teva Pharmaceutical Industries Limited Ordinary Shares,41.1,91.2,0.0,37.62,34.22,33.91,41.1,18.95
-BSIN,Big Sky Industrial Inc. - Common Stock,1.46,90.9,-11.5,1.44,1.16,1.13,1.65,0.69
-QETA,Quetta Acquisition Corporation - Common Stock,16.41,90.8,0.0,11.89,11.75,11.69,16.41,11.05
-SNX,TD SYNNEX Corporation Common Stock,273.37,90.8,-5.6,261.34,238.8,218.15,289.57,141.35
-ARTW,"Art's-Way Manufacturing Co., Inc. - Common Stock",3.54,90.8,-3.5,2.96,2.65,2.58,3.67,2.07
-FFIV,"F5, Inc. - Common Stock",479.83,90.7,0.0,418.55,376.43,350.3,479.83,223.99
-SAFT,"Safety Insurance Group, Inc. - Common Stock",103.82,90.7,-0.1,103.12,83.42,81.31,103.94,64.33
-PRTS,"CarParts.com, Inc. - Common Stock",8.64,90.6,-13.6,7.6,7.28,6.9,10.0,3.9
-ACU,Acme United Corporation. Common Stock,62.15,90.6,-2.4,61.16,50.29,48.36,63.7,35.03
-DSX,Diana Shipping inc. common stock,2.82,90.5,-9.3,2.76,2.5,2.42,3.11,1.55
-ENTG,"Entegris, Inc. - Common Stock",165.79,90.5,-9.8,146.14,140.31,134.01,183.84,68.64
-BTSG,"BrightSpring Health Services, Inc. - Common Stock",63.74,90.4,-12.6,59.65,57.45,52.95,72.91,28.36
-NXPL,NextPlat Corp - Common Stock,9.0,90.3,-8.2,8.52,6.83,6.62,9.8,3.7
-CNXN,"PC Connection, Inc. - Common Stock",92.81,90.2,0.0,84.66,73.23,69.84,92.81,55.35
-CMTV,Community Bancorp.  - Common stock,43.2,90.2,-1.6,40.97,38.98,36.36,43.9,21.63
-TGTX,"TG Therapeutics, Inc. - Common Stock",55.37,90.2,-6.2,53.59,45.93,41.88,59.06,26.94
-PCVX,"Vaxcyte, Inc. - Common Stock",71.38,90.1,-3.3,59.94,56.68,55.73,73.82,40.32
-ANET,"Arista Networks, Inc. Common Stock",216.74,90.1,0.0,197.86,170.01,161.07,216.74,116.13
-PR,Permian Resources Corporation Class A Common Stock,23.03,90.1,-5.3,22.28,20.61,19.35,24.33,11.68
-CRT,Cross Timbers Royalty Trust Common Stock,11.94,90.0,-8.2,11.08,10.28,9.76,13.0,6.6
-ATKR,Atkore Inc. Common Stock,94.84,89.9,-0.0,93.57,78.84,75.74,94.85,54.86
-CFFI,C&F Financial Corporation - Common Stock,101.39,89.9,-0.8,91.87,80.77,78.69,102.21,63.86
-JAKK,"JAKKS Pacific, Inc. - Common Stock",28.23,89.9,0.0,25.29,22.97,21.8,28.23,14.32
-SU,Suncor Energy  Inc. Common Stock,72.23,89.7,0.0,67.08,63.73,60.42,72.23,37.39
-XERS,"Xeris Biopharma Holdings, Inc. - Common Stock",10.48,89.7,0.0,8.65,7.33,7.27,10.48,5.29
-CRCT,"Cricut, Inc. - Class A common stock",6.39,89.6,-2.0,5.81,4.74,4.67,6.52,3.66
-RAL,Ralliant Corporation Common Stock,73.2,89.4,-1.0,67.53,59.96,57.21,73.96,38.28
-UFCS,"United Fire Group, Inc - Common Stock",55.14,89.4,-2.2,53.99,47.59,44.83,56.4,29.66
-VRNS,"Varonis Systems, Inc. - Common Stock",50.12,89.4,-20.7,45.2,36.14,34.4,63.2,20.19
-MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,80.84,89.3,-8.6,79.64,71.87,68.7,88.42,41.77
-BDL,"Flanigan's Enterprises, Inc. Common Stock",46.79,89.2,-9.6,45.76,38.61,36.83,51.77,27.1
-ITGR,Integer Holdings Corporation Common Stock,126.61,89.1,-0.0,125.68,101.7,97.35,126.65,63.32
-FRSH,Freshworks Inc. - Class A Common Stock,13.92,89.1,0.0,12.68,10.3,10.23,13.92,6.88
-AII,"American Integrity Insurance Group, Inc. Common Stock",26.77,89.0,-0.7,24.92,20.57,19.99,26.97,16.36
-ONTO,Onto Innovation Inc. Common Stock,294.53,89.0,-22.2,288.35,276.29,257.42,378.45,121.34
-OSPN,OneSpan Inc. - Common Stock,18.22,89.0,-1.1,16.83,14.05,13.4,18.42,9.96
-ASMH,ASML Holding NV ADRhedged,12.5,88.9,-8.2,11.87,11.11,10.55,13.62,6.28
-KGEI,Kolibri Global Energy Inc. - Common stock,6.45,88.9,-6.3,6.09,5.53,5.12,6.88,3.38
-SCSC,"ScanSource, Inc. - Common Stock",60.93,88.8,-2.1,56.89,48.71,46.33,62.22,34.27
-CBNA,"Chain Bridge Bancorp, Inc. Class A Common Stock",49.25,88.8,-0.7,47.09,40.87,39.36,49.6,29.12
-CSCO,"Cisco Systems, Inc. - Common Stock",118.39,88.6,-8.2,111.94,104.93,97.95,129.02,66.23
-VTRS,Viatris Inc. - Common Stock,17.64,88.5,-3.4,16.9,15.84,15.29,18.27,9.41
-CNC,Centene Corporation Common Stock,65.36,88.5,-5.8,64.9,56.87,53.43,69.41,31.8
-ROG,Rogers Corporation Common Stock,147.41,88.4,-11.8,135.12,132.49,124.68,167.09,75.56
-SSRM,SSR Mining Inc. - Common Stock,35.51,88.4,-9.4,34.55,31.01,29.71,39.21,19.46
-NVT,nVent Electric plc Ordinary Shares ,167.43,88.4,-9.1,159.81,152.3,141.98,184.1,94.55
-RELY,"Remitly Global, Inc. - Common stock",24.13,88.4,-10.4,23.87,21.53,19.74,26.92,12.2
-DIOD,Diodes Incorporated - Common Stock,94.94,88.3,-22.7,94.6,93.79,85.42,122.76,42.36
-LQDT,"Liquidity Services, Inc. - Common Stock",43.13,88.2,-1.2,42.12,37.46,35.99,43.64,22.16
-TALO,"Talos Energy, Inc. Common Stock",16.8,88.2,-8.3,16.52,15.33,14.49,18.33,9.05
-SANM,Sanmina Corporation - Common Stock,217.49,88.1,-23.1,205.25,202.34,190.28,282.72,122.71
-HSTM,"HealthStream, Inc. - Common Stock",33.13,88.0,0.0,29.34,25.75,24.71,33.13,19.79
-OGN,Organon & Co. Common Stock ,13.81,87.9,0.0,13.7,12.09,11.04,13.81,5.68
-BZH,"Beazer Homes USA, Inc. Common Stock",33.41,87.9,-1.9,33.25,27.57,26.61,34.07,18.03
-THC,Tenet Healthcare Corporation Common Stock,263.78,87.8,-6.1,262.79,216.91,215.07,280.77,161.37
-PLXS,Plexus Corp. - Common Stock,262.54,87.7,-13.6,256.03,251.94,234.61,303.82,132.74
-FCX,"Freeport-McMoRan, Inc. Common Stock",73.69,87.7,-7.8,71.56,65.33,64.04,79.91,38.38
-KN,Knowles Corporation Common Stock,37.56,87.6,-12.2,36.59,34.51,32.11,42.8,20.67
-SLDE,"Slide Insurance Holdings, Inc. - Common Stock",25.14,87.6,-5.1,23.22,20.08,19.47,26.48,14.33
-MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),402.3,87.6,-3.4,398.24,369.77,349.28,416.34,212.91
-MRK,"Merck & Company, Inc. Common Stock (new)",145.6,87.5,-6.4,142.94,126.2,122.54,155.53,80.14
-TRGP,"Targa Resources, Inc. Common Stock",286.7,87.5,-5.1,283.04,265.2,249.44,302.25,143.22
-SCCO,Southern Copper Corporation Common Stock,209.21,87.2,-4.8,199.49,183.31,182.1,219.7,114.69
-CNQ,Canadian Natural Resources Limited Common Stock,49.65,87.2,-3.7,48.62,46.04,43.68,51.55,29.07
-SXC,"SunCoke Energy, Inc. Common Stock",9.94,87.2,-6.0,9.66,8.21,7.93,10.57,5.51
-LGND,Ligand Pharmaceuticals Incorporated - Common Stock,301.81,87.1,-6.4,292.04,260.83,244.3,322.61,177.73
-EGY,"VAALCO Energy, Inc.  Common Stock",6.01,87.1,-8.0,5.83,5.67,5.36,6.53,3.26
-GIC,Global Industrial Company Common Stock,42.95,87.1,-1.5,40.02,34.51,33.53,43.61,25.97
-RUSHB,"Rush Enterprises, Inc. - Class B Common Stock",57.34,87.0,0.0,53.04,48.5,46.48,57.34,31.69
-ZD,"Ziff Davis, Inc. - Common Stock",56.52,87.0,-4.5,55.68,49.38,45.76,59.21,26.51
-NXDR,"Nextdoor Holdings, Inc. Class A Common Stock",2.57,86.9,-7.2,2.41,2.07,2.02,2.77,1.36
-NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),23.93,86.8,-4.5,22.56,21.51,20.77,25.06,14.2
-WCCB,West Coast Community Bancorp - Common Stock,60.95,86.8,-0.3,57.12,51.93,50.28,61.16,39.67
-MSM,"MSC Industrial Direct Company, Inc. Common Stock",129.51,86.7,-0.7,122.49,111.68,105.58,130.38,78.9
-PK,Park Hotels & Resorts Inc. Common Stock ,15.17,86.7,-4.7,15.06,13.05,12.42,15.91,9.08
-RCBC,River City Bank - Common stock,54.98,86.6,0.0,50.82,45.2,44.78,54.98,38.13
-UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,45.85,86.6,-2.4,43.59,39.6,37.56,46.97,27.36
-GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),26.5,86.5,-5.8,26.37,24.18,23.02,28.12,14.42
-DRH,Diamondrock Hospitality Company - Common Stock,12.62,86.5,-4.8,12.38,11.31,10.8,13.26,7.21
-BOX,"Box, Inc. Class A Common Stock",36.39,86.4,0.0,33.7,28.45,27.85,36.39,21.37
-TECK,Teck Resources Ltd Ordinary Shares,68.05,86.4,-5.3,66.57,61.11,59.3,71.87,38.06
-SBFG,"SB Financial Group, Inc. - Common Stock",29.21,86.3,-4.9,28.32,24.47,23.65,30.73,17.72
-UEIC,Universal Electronics Inc. - Common Stock,5.36,86.3,-5.5,4.92,4.34,4.16,5.67,2.62
-E,ENI S.p.A. Common Stock,56.0,86.3,-1.2,54.46,52.57,49.41,56.68,32.88
-MEOH,Methanex Corporation - Common Stock,62.1,86.2,-4.9,58.45,57.25,54.61,65.32,33.39
-KFFB,Kentucky First Federal Bancorp - Common Stock,5.75,86.2,-8.6,5.67,4.99,4.88,6.29,3.35
-GSAT,"Globalstar, Inc. - Common Stock",83.82,86.2,-0.7,82.66,78.84,74.46,84.43,41.54
-AIRT,"Air T, Inc. - Common Stock",30.55,86.1,-10.8,30.38,25.58,24.52,34.26,18.35
-GGB,Gerdau S.A. Common Stock,5.12,86.0,-1.0,4.84,4.44,4.33,5.17,3.08
-FLYW,Flywire Corporation - Voting Common Stock,18.76,86.0,-4.0,18.01,15.96,15.19,19.54,10.64
-WKC,World Kinect Corporation Common Stock,36.41,86.0,-9.0,35.99,30.96,29.56,39.99,22.1
-FMAO,"Farmers & Merchants Bancorp, Inc. - Common Stock",34.55,85.8,-2.8,34.53,29.84,28.81,35.56,22.27
-SAIC,Science Applications International Corporation - Common Stock,134.66,85.7,0.0,127.23,110.58,107.57,134.66,81.4
-WCC,"WESCO International, Inc. Common Stock",365.69,85.7,-4.8,355.18,333.64,320.73,384.09,206.94
-A,"Agilent Technologies, Inc. Common Stock",170.54,85.7,-2.5,155.37,133.52,133.17,174.95,109.61
-XOM,ExxonMobil Holdings Corporation Common Stock,168.94,85.4,-0.2,161.35,153.36,148.94,169.32,107.52
-HRTG,"Heritage Insurance Holdings, Inc. Common Stock",34.83,85.4,-1.7,33.66,28.44,27.98,35.42,20.88
-EXPD,"Expeditors International of Washington, Inc. Common Stock",193.24,85.4,-0.5,187.05,166.41,163.34,194.12,111.96
-BRKR,Bruker Corporation - Common Stock,58.84,85.3,-9.1,58.69,51.18,49.58,64.75,32.66
-EXEL,"Exelixis, Inc. - Common Stock",59.86,85.2,0.0,56.14,51.38,49.47,59.86,34.54
-TITN,Titan Machinery Inc. - Common Stock,22.63,85.2,-13.7,21.56,20.15,19.47,26.22,14.15
-SHEL,Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ,100.18,85.1,-0.0,93.5,88.14,84.79,100.2,68.43
-ADI,"Analog Devices, Inc. - Common Stock",406.19,85.1,-8.5,379.62,377.7,361.3,444.13,222.42
-TXN,Texas Instruments Incorporated - Common Stock,283.74,85.1,-14.2,271.88,266.79,250.09,330.59,150.79
-NKSH,"National Bankshares, Inc. - Common Stock",42.56,85.0,-1.7,41.98,37.95,37.3,43.3,25.92
-SHEH,Shell plc ADRhedged,73.55,85.0,-0.1,67.94,64.31,61.89,73.62,50.56
-AMG,"Affiliated Managers Group, Inc. Common Stock",387.26,85.0,0.0,366.04,331.86,326.07,387.26,230.75
-AFRI,Forafric Global PLC - Ordinary Shares,12.72,84.9,0.0,11.04,10.35,10.3,12.72,8.54
-COP,ConocoPhillips Common Stock,134.1,84.9,-5.0,129.2,121.26,116.36,141.22,83.04
-ACHC,"Acadia Healthcare Company, Inc. - Common Stock",29.25,84.8,-17.9,28.97,27.44,24.53,35.61,11.68
-PRSU,"Pursuit Attractions and Hospitality, Inc. Common Stock",52.94,84.8,-5.4,49.07,46.14,43.44,55.97,32.28
-KNTK,Kinetik Holdings Inc. Class A Common Stock,53.46,84.8,-3.0,52.94,48.96,46.39,55.1,30.05
-CHCI,"Comstock Holding Companies, Inc. - Class A Common Stock",18.71,84.8,-11.5,18.65,16.91,15.55,21.15,10.35
-EPC,Edgewell Personal Care Company Common Stock,27.8,84.7,-5.8,27.76,24.07,22.9,29.5,15.6
-NMAX,"Newsmax, Inc. Class B Common Stock",10.34,84.6,-13.7,10.24,8.28,7.96,11.98,5.16
-ACCO,Acco Brands Corporation Common Stock,4.49,84.5,0.0,4.27,3.8,3.78,4.49,2.74
-RBKB,"Rhinebeck Bancorp, Inc. - Common Stock",12.86,84.4,-2.8,12.74,12.0,11.38,13.23,6.89
-SWKS,"Skyworks Solutions, Inc. - Common Stock",76.35,84.3,-16.5,76.13,68.02,65.78,91.45,52.05
-WNC,Wabash National Corporation Common Stock,13.2,84.2,-7.2,12.66,10.6,10.46,14.23,6.69
-ACA,"Arcosa, Inc. Common Stock ",147.18,84.2,0.0,145.62,132.1,128.04,147.18,88.99
-CVX,Chevron Corporation Common Stock,211.98,84.1,-2.7,203.83,191.59,185.74,217.77,142.76
-PRTH,"Priority Technology Holdings, Inc. - Common Stock",7.81,84.0,0.0,6.31,6.01,5.92,7.81,4.64
-MFIN,Medallion Financial Corp. - Common Stock,11.88,83.8,-2.8,11.63,10.06,10.0,12.22,7.8
-AMGN,Amgen Inc. - Common Stock,414.87,83.7,-6.6,411.17,368.76,363.17,444.12,282.3
-EZPW,"EZCORP, Inc. - Class A Non-Voting Common Stock",31.96,83.7,-10.2,30.95,30.81,28.82,35.59,17.41
-SLAB,"Silicon Laboratories, Inc. - Common Stock",222.04,83.6,-0.3,219.88,216.43,204.8,222.8,116.08
-DSGR,"Distribution Solutions Group, Inc. - Common Stock",35.03,83.5,-0.1,34.84,30.01,29.82,35.07,19.31
-PNTG,"The Pennant Group, Inc. - Common Stock",39.73,83.5,-6.5,39.23,35.88,34.48,42.48,23.64
-NDSN,Nordson Corporation - Common Stock,328.17,83.4,-1.9,318.2,293.39,287.96,334.43,223.9
-ACOG,Alpha Cognition Inc. - Common Stock,9.04,83.3,-7.3,8.98,7.38,6.97,9.75,4.5
-NTCT,"NetScout Systems, Inc. - Common Stock",40.69,83.3,-9.3,39.08,37.91,35.48,44.84,25.47
-CGNX,Cognex Corporation - Common Stock,62.92,83.3,-13.0,62.21,60.33,56.32,72.32,34.65
-AUDC,AudioCodes Ltd. - Ordinary Shares,11.39,83.2,0.0,10.11,9.32,8.94,11.39,6.7
-GRDN,"Guardian Pharmacy Services, Inc. Class A Common Stock",41.28,83.2,-14.0,40.9,39.28,37.39,48.0,23.41
-BOW,Bowhead Specialty Holdings Inc. Common Stock,34.03,83.2,-0.2,33.62,28.83,27.99,34.1,21.44
-BIIB,Biogen Inc. - Common Stock,225.71,83.1,-1.3,217.05,200.95,196.44,228.69,142.26
-NPK,"National Presto Industries, Inc. Common Stock",151.59,83.1,-3.3,146.73,137.58,133.74,156.8,90.92
-PM,Philip Morris International Inc Common Stock,201.19,83.0,0.0,188.47,178.04,176.02,201.19,139.4
-APH,Amphenol Corporation Common Stock,87.24,82.9,-1.6,82.22,75.42,74.47,88.62,59.39
-WST,"West Pharmaceutical Services, Inc. Common Stock",366.0,82.9,-2.9,355.26,321.34,304.54,376.76,230.63
-BWIN,"The Baldwin Insurance Group, Inc. - Class A Common Stock",31.87,82.7,-1.9,30.86,25.41,24.59,32.49,16.5
-COKE,"Coca-Cola Consolidated, Inc. - Common Stock",196.24,82.6,-9.3,191.0,188.83,182.62,216.33,122.42
-BSET,"Bassett Furniture Industries, Incorporated - Common Stock",20.95,82.6,-3.6,18.91,16.73,16.39,21.73,13.59
-BP,BP p.l.c. Common Stock,46.25,82.4,-1.5,43.93,43.0,41.18,46.96,31.17
-BNED,"Barnes & Noble Education, Inc Common Stock",12.51,82.4,-8.4,11.84,10.94,10.37,13.65,6.08
-IOT,Samsara Inc. Class A Common Stock,41.55,82.3,-8.1,39.63,34.75,33.71,45.22,24.25
-BTBD,"BT Brands, Inc. - Common Stock",1.69,82.3,-24.9,1.56,1.45,1.43,2.25,1.04
-RS,"Reliance, Inc. Common Stock",402.45,82.3,-6.0,399.42,371.53,358.11,428.02,261.99
-BPH,BP plc ADRhedged,73.41,82.2,-0.9,69.0,67.78,64.93,74.05,49.86
-DV,"DoubleVerify Holdings, Inc. Common Stock",13.49,82.1,-0.2,13.21,11.38,11.14,13.52,8.61
-IFF,"International Flavors & Fragrances, Inc. Common Stock",84.55,82.0,-3.5,84.26,77.29,76.13,87.66,58.25
-WAT,Waters Corporation Common Stock,433.77,81.9,-2.1,415.9,365.72,364.95,443.26,283.32
-KRNT,Kornit Digital Ltd. - Ordinary Shares,18.3,81.8,0.0,16.57,15.85,15.55,18.3,12.31
-GENC,"Gencor Industries, Inc. Common Stock",18.05,81.8,-9.8,17.62,15.8,15.43,20.0,12.23
-FBLA,"FB Bancorp, Inc. - Common Stock",16.77,81.8,-3.0,16.05,14.86,14.42,17.29,11.69
-LXP,LXP Industrial Trust Common Stock (Maryland REIT),61.0,81.8,-0.2,60.81,54.59,53.0,61.15,42.24
-NL,"NLI Holdings, Inc. Common Stock",6.94,81.7,-15.9,6.64,6.14,6.04,8.25,4.89
-APT,"Alpha Pro Tech, Ltd. Common Stock",5.84,81.7,-12.0,5.3,5.18,5.12,6.64,4.34
-ABBV,AbbVie Inc. Common Stock,276.47,81.7,0.0,258.89,233.98,230.75,276.47,195.99
-IOSP,Innospec Inc. - Common Stock,95.65,81.5,-3.1,93.98,83.33,82.43,98.72,65.12
-EOG,"EOG Resources, Inc. Common Stock",148.16,81.4,-3.6,144.57,138.87,131.99,153.74,99.31
-TRV,"The Travelers Companies, Inc. Common Stock",368.75,81.3,-6.8,368.53,330.63,320.01,395.87,257.63
-CBNK,"Capital Bancorp, Inc. - Common Stock",38.54,81.3,-4.7,37.11,33.81,32.8,40.45,26.31
-DSP,Viant Technology Inc. - common stock,13.13,81.2,-6.8,12.61,11.84,11.65,14.09,8.14
-WSM,"Williams-Sonoma, Inc. Common Stock (DE)",241.78,81.1,-4.0,234.41,211.67,209.33,251.78,168.08
-MD,"Pediatrix Medical Group, Inc. Common Stock",26.64,81.0,-2.7,26.34,24.15,23.39,27.39,15.8
-PAYO,Payoneer Global Inc. - Common Stock,7.14,81.0,-0.6,7.13,6.17,6.0,7.18,4.27
-CVLT,"Commvault Systems, Inc. - Common Stock",157.25,81.0,-10.9,140.52,120.37,116.24,176.52,75.18
-AAPL,Apple Inc. - Common Stock,336.64,80.9,-1.3,322.36,299.31,290.4,341.07,244.37
-BBY,"Best Buy Co., Inc. Common Stock",87.01,80.9,-8.2,86.84,74.34,71.83,94.82,54.22
-CRVL,CorVel Corp. - Common Stock,77.16,80.8,-0.5,69.48,61.96,61.55,77.55,46.0
-DVN,Devon Energy Corporation Common Stock,48.26,80.8,-6.1,47.17,46.03,44.4,51.37,30.95
-LSBK,"Lake Shore Bancorp, Inc. - Common Stock",18.25,80.7,-3.2,17.65,16.51,16.15,18.85,12.23
-RGA,"Reinsurance Group of America, Incorporated Common Stock",255.98,80.7,0.0,246.39,223.27,218.84,255.98,178.4
-BSVN,Bank7 Corp. - Common stock,54.79,80.7,-4.1,53.12,47.16,45.94,57.11,37.85
-OXY,Occidental Petroleum Corporation Common Stock,60.11,80.7,-8.4,58.57,57.04,54.09,65.63,38.38
-RLGT,"Radiant Logistics, Inc. Common Stock",9.21,80.6,-6.1,8.66,8.44,8.07,9.81,5.88
-IEX,IDEX Corporation Common Stock,234.29,80.6,-2.3,229.89,215.86,210.81,239.76,158.66
-MKTW,"MarketWise, Inc. - Class A Common Stock",19.25,80.4,-7.7,18.88,17.6,16.7,20.85,12.46
-MTCH,"Match Group, Inc. - Common Stock",41.09,80.3,-7.0,40.41,36.78,35.33,44.18,28.43
-AUC,ATIF Holdings Limited - Ordinary Shares,9.19,80.3,-12.8,7.45,7.34,7.18,10.54,4.48
-GILD,"Gilead Sciences, Inc. - Common Stock",151.17,80.3,-1.2,144.22,136.09,135.9,153.05,113.92
-DJCO,Daily Journal Corp. (S.C.) - Common Stock,642.18,80.2,-6.6,626.67,561.87,561.51,687.66,374.53
-HST,"Host Hotels & Resorts, Inc. - Common Stock",22.65,80.1,-10.5,22.5,21.67,20.73,25.31,14.65
+TJGC,TJGC Group Limited - Class A Ordinary Shares,33.23,99.9,-4.5,14.35,7.55,6.41,34.79,1.5
+MRNA,"Moderna, Inc. - Common Stock",213.74,99.7,-5.0,141.44,83.64,73.54,225.0,22.36
+IOVA,"Iovance Biotherapeutics, Inc. - Common Stock",14.56,99.7,-1.8,9.36,5.78,5.07,14.82,1.81
+KOD,Kodiak Sciences Inc - Common Stock,99.26,99.5,-0.6,50.11,41.61,37.69,99.87,11.6
+CDNA,"CareDx, Inc. - Common Stock",63.12,99.4,-9.6,53.44,33.63,30.1,69.85,14.28
+TXG,"10x Genomics, Inc. - Common Stock",75.19,99.4,-23.1,68.91,42.31,36.7,97.74,11.47
+QMCO,Quantum Corporation - Common Stock,27.51,99.3,-20.3,24.19,14.15,12.21,34.5,4.31
+RCEL,"Avita Medical, Inc. - Common Stock",13.37,99.3,0.0,10.17,6.3,5.76,13.37,3.27
+VNCE,Vince Holding Corp. - Common Stock,11.18,99.3,-16.3,8.1,5.78,5.09,13.36,1.99
+DELL,Dell Technologies Inc. Class C Common Stock ,576.76,99.2,-2.0,509.08,367.0,306.05,588.4,110.54
+PLSE,"Pulse Biosciences, Inc - Common Stock",52.45,99.1,-5.0,48.95,32.72,28.82,55.2,12.66
+PENG,"Penguin Solutions, Inc. - Common Stock",79.15,99.1,-2.7,55.72,48.49,41.26,81.39,16.24
+ECO,Okeanis Eco Tankers Corp. Common Stock,98.63,99.1,0.0,72.58,55.49,50.59,98.63,24.74
+IBRX,"ImmunityBio, Inc. - Common Stock",10.12,99.0,-12.4,8.36,7.93,7.44,11.55,1.98
+OABI,"OmniAb, Inc. - Common Stock",4.77,99.0,-5.4,4.19,2.72,2.5,5.04,1.36
+HLP,Hongli Group Inc. - Class A Ordinary Shares,2.64,99.0,0.0,1.7,1.13,1.09,2.64,0.43
+FIRY,Firy Inc. Class A Common Stock,12.39,99.0,-5.4,10.69,8.06,7.01,13.1,2.28
+LITE,Lumentum Holdings Inc. - Common Stock,995.41,99.0,-12.2,925.97,860.87,767.23,1133.4,149.61
+OESX,"Orion Energy Systems, Inc. - Common Stock",25.43,98.9,-17.2,24.34,14.63,14.6,30.73,8.04
+MU,"Micron Technology, Inc. - Common Stock",989.04,98.9,-18.5,979.51,814.26,705.13,1213.37,181.42
+TOP,TOP Financial Group Limited - Class A Ordinary Shares,15.14,98.8,-9.5,14.18,8.78,7.87,16.73,3.11
+PAYS,"Paysign, Inc. - Common Stock",15.17,98.8,-1.3,13.02,8.8,7.64,15.37,3.18
+SILC,Silicom Ltd - Ordinary Shares,55.42,98.8,-10.1,47.02,39.62,34.13,61.65,13.5
+HPE,Hewlett Packard Enterprise Company Common Stock,70.33,98.8,-4.3,58.53,43.52,38.13,73.46,19.67
+SAIH,SAIHEAT Limited - Class A Ordinary Shares,25.3,98.7,-20.2,24.42,15.62,13.66,31.7,5.93
+OKTA,"Okta, Inc. - Class A Common Stock",227.08,98.6,-2.2,174.81,126.5,116.11,232.13,62.93
+OMER,Omeros Corporation - Common Stock,19.63,98.6,-6.7,17.87,13.55,13.3,21.05,4.1
+RNG,"RingCentral, Inc. Class A Common Stock",78.17,98.6,-2.1,70.78,50.7,45.54,79.82,24.69
+FRO,Frontline Plc Ordinary Shares,59.19,98.5,0.0,44.73,37.02,34.04,59.19,17.91
+TEAM,Atlassian Corporation  - Class A Common Stock,207.75,98.5,0.0,175.98,113.53,113.51,207.75,57.15
+INSW,"International Seaways, Inc. Common Stock ",124.22,98.4,0.0,101.07,83.15,75.56,124.22,37.13
+SIF,"SIFCO Industries, Inc. Common Stock",23.14,98.4,-18.0,22.25,19.98,17.11,28.23,5.4
+PBF,PBF Energy Inc. Class A Common Stock,85.02,98.3,-4.8,73.94,55.3,49.7,89.34,25.55
+PXS,Pyxis Tankers Inc. - Common Stock,7.73,98.3,-4.6,6.22,5.0,4.6,8.1,2.62
+MRVL,"Marvell Technology, Inc. - Common Stock",265.86,98.3,-15.9,238.01,202.91,172.59,316.28,73.66
+CLMT,"Calumet, Inc - Common Stock",57.17,98.3,-3.2,51.59,40.26,36.19,59.05,17.68
+P,"Everpure, Inc. Class A common stock",155.31,98.2,0.0,111.26,84.97,81.1,155.31,56.99
+ABSI,Absci Corporation - Common Stock,9.67,98.2,-16.8,9.3,7.08,6.06,11.62,2.3
+MPC,Marathon Petroleum Corporation Common Stock,458.81,98.2,-1.0,381.6,296.81,268.96,463.34,160.76
+VAI,Valor Energy Incorporated - Common Stock,2.81,98.2,0.0,1.92,1.52,1.44,2.81,1.02
+CORT,Corcept Therapeutics Incorporated - Common Stock,121.19,98.1,-1.9,115.31,80.94,71.06,123.57,32.15
+FET,"Forum Energy Technologies, Inc. Common Stock",85.72,98.1,-1.9,80.95,63.92,59.7,87.37,25.26
+LIND,Lindblad Expeditions Holdings Inc.  - Common Stock,36.23,98.0,0.0,30.65,24.82,23.0,36.23,11.45
+DINO,HF Sinclair Corporation Common Stock,122.91,98.0,0.0,102.67,80.03,72.66,122.91,44.83
+AMD,"Advanced Micro Devices, Inc. - Common Stock",594.24,98.0,-8.5,531.28,443.83,387.22,649.42,190.95
+NAT,Nordic American Tankers Limited Common Stock,8.79,98.0,0.0,7.19,5.99,5.47,8.79,2.85
+UMC,United Microelectronics Corporation (NEW) Common Stock,22.55,97.9,-18.1,21.48,18.29,16.11,27.53,6.9
+TKNO,"Alpha Teknova, Inc. - Common Stock",8.7,97.8,-6.8,7.58,5.24,4.66,9.33,1.99
+VLO,Valero Energy Corporation Common Stock,436.0,97.8,-1.8,369.96,292.8,266.94,443.8,153.14
+ILMN,"Illumina, Inc. - Common Stock",276.67,97.8,-5.8,228.35,177.81,166.97,293.69,91.0
+FOSL,"Fossil Group, Inc. - Common Stock",7.15,97.7,-1.0,5.75,4.84,4.62,7.22,1.79
+NNBR,"NN, Inc. - Common Stock",3.94,97.7,-12.6,3.69,2.92,2.56,4.51,1.14
+KRT,Karat Packaging Inc. - Common Stock,54.49,97.7,-0.3,49.29,36.28,33.09,54.68,19.72
+FSLY,"Fastly, Inc. - Class A Common Stock",26.43,97.6,-21.1,24.93,23.03,20.44,33.5,7.86
+COHU,"Cohu, Inc. - Common Stock",65.21,97.6,-11.8,57.48,50.71,45.21,73.91,19.94
+BFLY,"Butterfly Network, Inc. Class A Common Stock",8.55,97.6,-13.9,8.53,6.48,5.82,9.93,1.97
+CVI,CVR Energy Inc. Common Stock,58.91,97.6,-1.1,45.07,36.25,33.11,59.54,20.59
+NTAP,"NetApp, Inc. - Common Stock",239.18,97.5,0.0,199.05,155.15,141.66,239.18,93.14
+TWLO,Twilio Inc. Class A Common Stock,282.66,97.5,-6.2,248.09,199.16,180.42,301.27,106.23
+CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",263.01,97.4,-5.7,230.15,174.68,158.03,278.86,87.56
+HNGE,"Hinge Health, Inc. Class A Common Stock",104.82,97.4,0.0,91.55,69.65,62.71,104.82,31.17
+FTNT,"Fortinet, Inc. - Common Stock",192.94,97.4,-0.9,167.99,135.69,121.86,194.75,75.23
+MGLD,"The Marygold Companies, Inc. Common Stock",2.0,97.3,-1.5,1.25,1.17,1.14,2.03,0.87
+DK,"Delek US Holdings, Inc. Common Stock",77.33,97.3,-5.2,70.87,55.37,49.54,81.55,26.26
+HAE,Haemonetics Corporation Common Stock,122.06,97.2,0.0,102.35,78.33,75.96,122.06,48.58
+PUBM,"PubMatic, Inc. - Class A Common Stock",18.52,97.2,-3.4,17.09,12.79,11.51,19.18,6.28
+HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,34.62,97.1,-10.8,32.67,24.13,22.64,38.83,13.43
+GTE,Gran Tierra Energy Inc. Common Stock,10.52,97.1,-4.5,9.89,8.55,7.77,11.01,3.43
+XNCR,"Xencor, Inc. - Common Stock",25.04,97.0,-14.5,24.74,17.25,16.15,29.3,10.41
+LPG,Dorian LPG Ltd. Common Stock,58.24,97.0,-0.1,52.04,42.46,39.05,58.31,22.34
+PKOH,Park-Ohio Holdings Corp. - Common Stock,48.32,96.9,-8.0,46.55,36.25,33.17,52.51,18.51
+CRSR,"Corsair Gaming, Inc. - Common Stock",13.55,96.9,-5.6,12.71,9.45,8.48,14.35,4.58
+KRSA,"Korsana Biosciences, Inc. - Common Stock",34.04,96.9,-23.8,29.59,24.08,20.47,44.66,7.56
+ASST,"Strive, Inc. - Class A Common Stock",27.71,96.8,-15.5,23.03,16.65,15.87,32.8,7.16
+DHX,"DHI Group, Inc. Common Stock",4.8,96.8,-5.9,4.47,3.71,3.29,5.1,1.5
+FIGS,"FIGS, Inc. Class A Common Stock",17.74,96.7,0.0,13.93,13.15,12.87,17.74,6.9
+RSKD,Riskified Ltd. Class A Ordinary Shares,8.57,96.7,0.0,6.58,5.32,5.14,8.57,3.79
+GTLB,GitLab Inc. - Class A Common Stock,56.01,96.7,0.0,45.86,32.91,32.78,56.01,19.42
+HZO,"MarineMax, Inc.  (FL) Common Stock",52.33,96.6,-0.4,50.6,38.01,35.5,52.56,21.43
+PGEN,"Precigen, Inc. - Common Stock",7.66,96.5,-10.5,7.27,5.37,5.11,8.56,3.1
+HTFL,"Heartflow, Inc. - Common Stock",50.56,96.5,-3.2,45.05,33.84,32.47,52.21,20.49
+FRD,Friedman Industries Inc. - Common Stock,42.42,96.5,-11.8,42.09,30.67,27.87,48.08,16.96
+NTRA,"Natera, Inc. - Common Stock",397.77,96.5,-6.5,348.02,264.52,254.2,425.64,169.27
+JRSH,"Jerash Holdings (US), Inc. - Common Stock",6.15,96.4,0.0,5.52,4.25,3.95,6.15,2.78
+TRMD,TORM plc - Class A Common Stock,40.92,96.4,-0.3,32.88,29.01,27.2,41.05,16.82
+PSX,Phillips 66 Common Stock,281.47,96.3,-0.0,248.45,200.94,186.86,281.6,123.11
+CMBT,CMB.TECH NV Ordinary Shares,20.92,96.3,0.0,18.56,15.5,14.52,20.92,8.61
+SMTC,Semtech Corporation - Common Stock,168.28,96.3,-14.7,154.6,132.95,120.36,197.2,62.57
+PANW,"Palo Alto Networks, Inc. - Common Stock",403.83,96.3,-3.8,372.29,285.44,257.0,419.91,141.67
+DDOG,"Datadog, Inc. - Class A Common Stock",287.29,96.3,-2.0,247.26,210.53,189.04,293.26,102.61
+MTW,"Manitowoc Company, Inc. (The) Common Stock",21.77,96.2,-7.4,20.34,15.26,14.88,23.51,10.0
+AMPL,"Amplitude, Inc. - Class A Common Stock",15.53,96.2,-0.9,13.2,9.33,9.25,15.67,5.61
+VRA,"Vera Bradley, Inc. - Common Stock",5.46,96.2,0.0,3.78,3.69,3.43,5.46,1.8
+EXFY,"Expensify, Inc. - Class A Common Stock",2.44,96.1,-10.3,2.33,1.59,1.53,2.72,0.75
+LCUT,"Lifetime Brands, Inc. - Common Stock",9.54,96.1,-3.6,9.02,7.89,6.8,9.9,2.91
+HMR,Heidmar Maritime Holdings Corp. - Common Stock,1.8,96.1,-4.3,1.5,1.2,1.13,1.88,0.77
+FIVN,"Five9, Inc. - Common Stock",35.67,96.1,-7.7,33.37,24.62,23.02,38.65,13.61
+BE,Bloom Energy Corporation Class A Common Stock,262.28,96.0,-24.2,247.61,237.54,213.28,345.85,76.97
+VSTS,Vestis Corporation Common Stock,14.25,95.9,-13.6,13.47,12.12,10.88,16.5,4.62
+XMTR,"Xometry, Inc. - Class A Common Stock",107.96,95.9,-2.8,94.8,78.95,73.82,111.07,36.1
+CAKE,The Cheesecake Factory Incorporated - Common Stock,109.0,95.9,-7.1,107.0,80.79,75.31,117.29,42.61
+SMWB,Similarweb Ltd. Ordinary Shares,8.83,95.9,-5.0,8.3,5.54,5.39,9.29,2.33
+AGPU,Axe Compute Inc. - Common Stock,10.75,95.8,-22.6,10.62,7.29,6.51,13.89,1.41
+NSIT,"Insight Enterprises, Inc. - Common Stock",166.1,95.8,0.0,154.86,114.56,107.04,166.1,64.43
+FLXS,"Flexsteel Industries, Inc. - Common Stock",87.19,95.8,-2.2,81.32,65.65,60.62,89.11,33.65
+UTZ,Utz Brands Inc Class A Common Stock ,14.3,95.7,-0.1,14.17,10.07,9.98,14.32,6.71
+JILL,"J. Jill, Inc. Common Stock",24.4,95.7,-1.8,21.62,16.56,16.36,24.84,10.81
+USIO,"Usio, Inc. - Common Stock",2.74,95.7,-6.8,2.56,1.91,1.77,2.94,1.05
+EHLD,Euroholdings Ltd. - Common Stock,12.43,95.7,-20.9,11.15,9.0,8.36,15.7,5.89
+CIX,CompX International Inc. Common Stock,39.05,95.6,-1.1,34.46,27.56,26.39,39.48,19.62
+OPRT,Oportun Financial Corporation - common stock,9.16,95.5,0.0,7.81,6.14,5.93,9.16,4.13
+SNOW,Snowflake Inc. Common Stock,360.37,95.5,-2.3,331.59,244.25,231.73,368.89,121.11
+TISI,"Team, Inc. Common Stock",26.38,95.5,-9.2,24.89,19.24,18.0,29.06,12.65
+RRGB,"Red Robin Gourmet Burgers, Inc. - Common Stock",8.54,95.4,-19.4,8.4,6.03,5.51,10.59,2.59
+PBT,Permian Basin Royalty Trust Common Stock,35.65,95.4,-1.2,33.65,27.92,25.58,36.09,16.36
+RBRK,"Rubrik, Inc. Class A Common Stock",120.01,95.2,-4.6,102.24,77.11,73.23,125.8,43.81
+VSXY,Victorias Secret & Co. Common Stock ,88.59,95.2,-11.4,85.25,70.16,67.38,99.97,28.25
+ATRC,"AtriCure, Inc. - Common Stock",57.28,95.2,-5.7,51.08,36.93,36.76,60.77,25.86
+LFST,"LifeStance Health Group, Inc. - Common Stock",12.48,95.1,-6.7,12.2,9.56,8.96,13.38,4.81
+RCMT,"RCM Technologies, Inc. - Common Stock",40.99,95.1,-2.5,38.54,30.07,27.46,42.02,17.55
+TH,Target Hospitality Corp. - Common Stock,18.84,95.1,-12.2,18.47,16.52,14.28,21.45,6.22
+HQI,"HireQuest, Inc. - Common Stock",17.48,95.0,-12.8,16.84,13.47,12.83,20.04,7.49
+IRD,"Opus Genetics, Inc. - Common Stock",4.64,95.0,-23.6,4.46,4.44,4.06,6.07,1.74
+ZETA,Zeta Global Holdings Corp. Class A Common Stock,33.51,94.9,-0.7,29.89,22.57,21.72,33.74,14.55
+KNSA,"Kiniksa Pharmaceuticals International, plc - Class A Ordinary Shares",79.24,94.9,-2.1,77.6,61.91,57.29,80.92,37.01
+SDGR,"Schrodinger, Inc. - Common Stock",25.91,94.9,-20.5,22.85,16.74,16.26,32.6,11.07
+PRCH,"Porch Group, Inc. - Common Stock",17.69,94.8,-2.0,16.78,12.46,11.42,18.06,6.4
+NTWK,NETSOL Technologies Inc. - Common Stock,6.22,94.7,-0.6,4.58,4.22,3.97,6.26,2.8
+MASS,908 Devices Inc. - Common Stock,11.82,94.7,-7.7,10.55,8.48,7.91,12.8,5.09
+PARR,"Par Pacific Holdings, Inc.  Common Stock",83.12,94.7,-5.2,80.02,68.18,61.05,87.65,33.28
+FROG,JFrog Ltd. - Ordinary shares,99.02,94.7,-4.8,92.21,74.99,69.39,104.03,34.75
+TK,Teekay Corporation Ltd. Common Stock,15.56,94.6,0.0,13.42,12.17,11.58,15.56,7.31
+GCT,GigaCloud Technology Inc - Class A Ordinary Shares,57.74,94.6,0.0,51.97,43.59,42.68,57.74,25.46
+WEYS,"Weyco Group, Inc. - Common Stock",52.43,94.6,0.0,46.11,38.76,36.74,52.43,25.58
+FNKO,"Funko, Inc. - Class A Common Stock",6.46,94.5,-9.0,5.9,5.18,4.9,7.1,2.81
+AMC,"AMC Entertainment Holdings, Inc. Class A Common Stock",3.0,94.5,-8.8,2.69,2.04,1.88,3.29,0.95
+AOUT,"American Outdoor Brands, Inc. - Common Stock",16.44,94.5,-6.3,13.94,11.56,10.88,17.55,6.36
+CLOV,"Clover Health Investments, Corp.  - Class A Common stock",4.78,94.4,-11.6,4.44,3.76,3.39,5.41,1.7
+OSCR,"Oscar Health, Inc. Class A Common Stock",34.01,94.4,0.0,31.11,25.07,22.46,34.01,10.85
+PD,"PagerDuty, Inc. Common Stock",16.24,94.3,0.0,13.58,9.86,9.82,16.24,5.73
+ALNT,Allient Inc. - Common Stock,106.38,94.3,-10.3,103.42,85.86,79.94,118.63,45.81
+PAYC,"Paycom Software, Inc. Common Stock",235.01,94.3,-2.3,221.46,162.23,156.32,240.52,113.1
+SN,"SharkNinja, Inc. Ordinary Shares",189.98,94.2,-1.5,178.7,142.51,137.06,192.86,84.57
+NET,"Cloudflare, Inc. Class A Common Stock",350.87,94.2,-2.8,317.46,258.18,239.85,360.93,160.19
+DAC,Danaos Corporation Common Stock,169.39,94.2,-0.5,153.03,133.07,125.24,170.22,82.21
+HHS,"Harte Hanks, Inc. - Common Stock",4.37,94.2,-6.0,3.98,3.02,3.01,4.65,2.0
+HALO,"Halozyme Therapeutics, Inc. - Common Stock",111.08,94.1,-3.6,106.22,82.04,79.63,115.22,61.63
+OBIO,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",5.91,94.1,-6.9,5.39,4.53,4.44,6.35,3.15
+APA,APA Corporation - Common Stock,46.84,94.1,-1.2,42.65,38.71,35.69,47.41,21.16
+CON,"Concentra Group Holdings Parent, Inc. Common Stock",37.54,94.0,0.0,34.71,28.77,27.06,37.54,18.52
+SHIP,Seanergy Maritime Holdings Corp. - Common Stock,17.32,94.0,-6.6,17.24,15.23,14.08,18.54,7.23
+MRX,Marex Group Limited - Ordinary Shares,72.29,94.0,-7.6,70.98,59.85,54.79,78.27,29.51
+CBRL,"Cracker Barrel Old Country Store, Inc. - Common Stock",58.74,93.9,-0.5,54.01,42.88,39.75,59.04,24.52
+CLWT,Euro Tech Holdings Company Limited - Ordinary Shares,2.15,93.9,0.0,1.55,1.41,1.37,2.15,1.03
+QLYS,"Qualys, Inc. - Common Stock",196.77,93.9,-2.8,181.48,132.95,129.43,202.42,76.2
+SOTK,Sono-Tek Corporation - Common Stock,7.16,93.8,0.0,5.29,4.99,4.78,7.16,3.6
+NVAX,"Novavax, Inc. - Common Stock",12.66,93.8,-0.7,9.64,9.17,9.04,12.75,6.22
+FTRE,Fortrea Holdings Inc. - Common Stock,21.0,93.7,-0.5,18.94,15.59,15.3,21.11,8.87
+PACS,"PACS Group, Inc. Common Stock",44.3,93.7,-8.6,43.62,39.61,39.2,48.45,10.58
+HBIO,"Harvard Bioscience, Inc. - Common Stock",8.24,93.7,-3.7,7.62,6.45,6.31,8.56,3.8
+STLN,"Starling Oncology, Inc. - Common Stock",6.92,93.6,-1.8,6.3,4.96,4.5,7.05,2.38
+MWYN,"Marwynn Holdings, Inc. - Common stock",1.38,93.6,-6.1,1.07,0.91,0.9,1.47,0.49
+HPK,"HighPeak Energy, Inc. - Common Stock",9.71,93.6,0.0,8.0,7.27,6.64,9.71,3.89
+ECPG,Encore Capital Group Inc - Common Stock,100.85,93.5,-2.8,98.39,87.14,79.98,103.74,40.53
+S,"SentinelOne, Inc. Class A Common Stock",25.66,93.5,-2.3,22.38,18.01,17.01,26.27,11.94
+DT,"Dynatrace, Inc. Common Stock",65.25,93.5,0.0,53.68,44.49,43.09,65.25,32.36
+MATX,"Matson, Inc. Common Stock",227.68,93.4,-4.6,222.44,196.53,185.19,238.6,87.23
+RVTY,"Revvity, Inc. Common Stock",155.61,93.4,-1.1,132.95,109.67,107.91,157.36,82.21
+AAMI,Acadian Asset Management Inc. Common Stock,92.63,93.3,-4.7,92.25,76.83,70.68,97.2,41.74
+RELL,"Richardson Electronics, Ltd. - Common Stock",20.74,93.3,-4.7,18.3,16.29,15.13,21.76,9.31
+SM,SM Energy Company Common Stock,37.69,93.2,-8.7,35.25,31.45,28.6,41.29,17.2
+TER,"Teradyne, Inc. - Common Stock",383.85,93.2,-20.6,383.14,367.25,341.44,483.65,131.82
+ASC,Ardmore Shipping Corporation Common Stock,19.82,93.2,0.0,17.78,16.24,15.22,19.82,9.69
+RDVT,"Red Violet, Inc. - Common Stock ",80.17,93.1,-0.1,73.97,58.01,55.26,80.25,34.4
+MNTK,"Montauk Renewables, Inc. - Common Stock",2.4,93.1,-18.4,2.21,1.73,1.7,2.94,1.12
+ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,30.9,93.1,0.0,28.47,26.57,25.72,30.9,12.03
+WEST,Westrock Coffee Company - Common Stock,8.07,93.1,-17.1,8.06,7.2,6.53,9.73,3.71
+MSGM,Motorsport Games Inc. - Class A Common Stock,5.3,93.1,-1.5,4.42,4.32,4.14,5.38,2.19
+SMTI,Sanara MedTech Inc. - Common Stock,35.15,93.0,-0.4,34.72,25.9,24.83,35.28,16.34
+IDT,IDT Corporation Class B Common Stock,81.43,93.0,-0.1,70.31,59.63,57.17,81.49,46.42
+SB,"Safe Bulkers, Inc Common Stock ($0.001 par value)",8.64,93.0,-5.9,8.38,7.18,6.76,9.18,4.03
+PCRX,"Pacira BioSciences, Inc. - Common Stock",36.35,92.9,-0.1,25.76,24.57,24.03,36.39,19.16
+AVT,"Avnet, Inc. - Common Stock",97.15,92.9,-9.2,95.27,84.31,77.59,106.94,43.47
+REPX,"Riley Exploration Permian, Inc. Common Stock",46.26,92.8,0.0,39.88,36.37,34.03,46.26,23.36
+PBYI,Puma Biotechnology Inc - Common Stock,10.29,92.8,0.0,9.27,7.96,7.6,10.29,4.73
+KEYS,Keysight Technologies Inc. Common Stock,377.7,92.7,-2.7,342.56,332.14,307.9,388.03,159.49
+ZBRA,Zebra Technologies Corporation - Class A Common Stock,388.12,92.7,0.0,363.49,279.81,271.12,388.12,199.3
+IBTA,"Ibotta, Inc. Class A Common Stock",42.96,92.7,-0.7,38.92,34.01,31.07,43.28,19.25
+AMRX,"Amneal Pharmaceuticals, Inc. - Class A Common Stock",20.03,92.6,-2.3,18.5,15.72,15.23,20.5,9.72
+MGNI,"Magnite, Inc. - Common Stock",25.08,92.6,-2.3,24.08,18.15,17.13,25.67,11.2
+MLAB,"Mesa Laboratories, Inc. - Common Stock",128.07,92.5,-10.0,122.87,105.51,100.82,142.23,67.29
+HUM,Humana Inc. Common Stock,433.5,92.5,0.0,389.41,322.83,297.07,433.5,162.46
+CRL,"Charles River Laboratories International, Inc. Common Stock",301.86,92.5,-2.9,284.56,219.04,213.12,310.77,149.93
+RXO,"RXO, Inc. Common Stock",28.69,92.4,-2.1,21.93,21.71,20.01,29.3,10.48
+MG,Mistras Group Inc Common Stock,20.66,92.4,-4.3,19.29,17.67,16.82,21.59,9.39
+VIR,"Vir Biotechnology, Inc. - Common Stock",11.3,92.4,-4.1,10.47,9.79,9.19,11.78,5.12
+NVEC,NVE Corporation - Common Stock,110.21,92.3,-17.2,109.59,95.19,87.61,133.06,55.46
+PRLB,"Proto Labs, Inc. Common stock",91.6,92.3,-7.2,86.78,75.28,70.91,98.68,46.81
+TENB,"Tenable Holdings, Inc. - Common Stock",40.77,92.3,-4.4,36.05,29.19,27.35,42.65,16.04
+ARW,"Arrow Electronics, Inc. Common Stock",225.72,92.2,-6.7,217.9,200.58,183.78,242.01,101.87
+NUTX,Nutex Health Inc. - Common Stock,206.15,92.2,-8.4,195.56,152.19,148.44,225.0,87.01
+WTI,"W&T Offshore, Inc. Common Stock",3.75,92.1,-23.3,3.73,3.61,3.25,4.89,1.49
+CXW,"CoreCivic, Inc. Common Stock",33.6,92.1,-5.5,33.16,27.01,24.95,35.54,16.13
+INFU,"InfuSystems Holdings, Inc. Common Stock",13.6,92.1,0.0,12.43,10.46,9.97,13.6,7.42
+NHC,National HealthCare Corporation Common Stock,229.88,92.0,-2.6,223.45,198.99,186.31,236.04,115.7
+CVE,Cenovus Energy Inc Common Stock,31.86,92.0,-6.1,31.45,28.42,26.18,33.92,15.59
+CURV,Torrid Holdings Inc. Common Stock,2.43,92.0,-11.6,2.34,1.99,1.77,2.75,0.97
+SND,"Smart Sand, Inc. - Common Stock",5.28,91.9,-7.3,5.04,4.83,4.7,5.7,1.92
+TEVA,Teva Pharmaceutical Industries Limited Ordinary Shares,41.17,91.9,0.0,37.74,34.29,33.96,41.17,18.95
+SAFT,"Safety Insurance Group, Inc. - Common Stock",103.83,91.8,-0.1,103.15,83.64,81.44,103.94,64.33
+ACU,Acme United Corporation. Common Stock,62.5,91.7,-1.9,61.28,50.42,48.47,63.7,35.03
+DSX,Diana Shipping inc. common stock,2.87,91.7,-7.7,2.76,2.51,2.42,3.11,1.55
+TGTX,"TG Therapeutics, Inc. - Common Stock",55.27,91.7,-6.4,53.65,46.1,42.01,59.06,26.94
+CFFI,C&F Financial Corporation - Common Stock,103.31,91.6,0.0,92.3,80.96,78.86,103.31,63.86
+PR,Permian Resources Corporation Class A Common Stock,23.4,91.6,-3.8,22.33,20.65,19.39,24.33,11.68
+CYRX,"CryoPort, Inc. - Common Stock",16.84,91.5,-7.2,16.31,13.9,12.78,18.14,7.72
+CNXN,"PC Connection, Inc. - Common Stock",94.61,91.5,0.0,84.88,73.46,70.02,94.61,55.35
+STGW,Stagwell Inc. - Class A Common Stock,8.86,91.4,-5.2,8.68,7.41,6.9,9.35,4.4
+NTNX,"Nutanix, Inc. - Class A Common Stock",74.14,91.4,-0.7,67.83,53.58,51.19,74.63,34.41
+ARTW,"Art's-Way Manufacturing Co., Inc. - Common Stock",3.53,91.4,-3.8,2.99,2.66,2.59,3.67,2.07
+BDL,"Flanigan's Enterprises, Inc. Common Stock",48.2,91.4,-6.9,45.89,38.72,36.92,51.77,27.1
+CMTV,Community Bancorp.  - Common stock,42.64,91.3,-2.9,41.01,39.06,36.45,43.9,21.7
+TWIN,"Twin Disc, Incorporated - Common Stock",26.25,91.3,-8.6,24.78,20.74,19.89,28.72,14.12
+SNX,TD SYNNEX Corporation Common Stock,273.06,91.3,-5.7,261.68,239.58,218.76,289.57,141.35
+CRCT,"Cricut, Inc. - Class A common stock",6.48,91.2,-0.6,5.85,4.76,4.68,6.52,3.66
+BHE,"Benchmark Electronics, Inc. Common Stock",79.34,91.2,-19.4,78.13,76.77,70.56,98.47,35.58
+BTSG,"BrightSpring Health Services, Inc. - Common Stock",63.01,91.1,-13.6,59.72,57.59,53.08,72.91,28.36
+SU,Suncor Energy  Inc. Common Stock,73.51,91.1,0.0,67.21,63.85,60.57,73.51,37.39
+CRT,Cross Timbers Royalty Trust Common Stock,12.06,91.1,-7.2,11.12,10.3,9.78,13.0,6.6
+THC,Tenet Healthcare Corporation Common Stock,268.76,91.1,-4.3,263.06,217.1,215.42,280.77,161.37
+AII,"American Integrity Insurance Group, Inc. Common Stock",27.12,91.0,0.0,25.05,20.63,20.02,27.12,16.36
+AVTR,"Avantor, Inc. Common Stock",15.49,91.0,-2.3,14.68,10.93,10.87,15.86,7.41
+UFCS,"United Fire Group, Inc - Common Stock",56.0,90.9,-0.7,54.08,47.72,44.92,56.4,29.66
+TALO,"Talos Energy, Inc. Common Stock",17.34,90.7,-5.4,16.56,15.36,14.52,18.33,9.05
+SG,"Sweetgreen, Inc. Class A Common Stock",9.85,90.7,-3.5,7.19,7.17,6.97,10.21,4.7
+PRTS,"CarParts.com, Inc. - Common Stock",8.67,90.5,-13.3,7.67,7.28,6.92,10.0,3.9
+CNC,Centene Corporation Common Stock,67.02,90.5,-3.4,65.0,57.03,53.57,69.41,31.8
+FFIV,"F5, Inc. - Common Stock",473.49,90.4,-1.3,419.97,377.68,351.37,479.83,223.99
+ATKR,Atkore Inc. Common Stock,94.88,90.4,0.0,94.02,79.06,75.89,94.88,54.86
+JAKK,"JAKKS Pacific, Inc. - Common Stock",27.74,90.3,-1.7,25.32,23.02,21.86,28.23,14.32
+SLDE,"Slide Insurance Holdings, Inc. - Common Stock",25.53,90.2,-3.6,23.33,20.13,19.5,26.48,14.33
+ITGR,Integer Holdings Corporation Common Stock,126.52,90.0,-0.1,125.79,101.97,97.59,126.65,63.32
+PCVX,"Vaxcyte, Inc. - Common Stock",70.65,89.9,-4.3,60.27,56.75,55.85,73.82,40.32
+XERS,"Xeris Biopharma Holdings, Inc. - Common Stock",10.46,89.9,-0.2,8.69,7.37,7.29,10.48,5.29
+CBNA,"Chain Bridge Bancorp, Inc. Class A Common Stock",49.93,89.8,0.0,47.17,40.97,39.43,49.93,29.12
+MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,79.78,89.7,-9.8,79.69,72.01,68.83,88.42,41.77
+DAVE,Dave Inc.  - Class A Common Stock,361.09,89.7,-18.4,353.15,305.96,278.22,442.53,155.92
+TRGP,"Targa Resources, Inc. Common Stock",290.54,89.6,-3.9,283.44,265.59,249.99,302.25,143.22
+SSRM,SSR Mining Inc. - Common Stock,35.44,89.6,-9.6,34.75,31.05,29.78,39.21,19.46
+CNK,"Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock",36.87,89.5,-3.9,36.42,31.86,30.06,38.38,21.74
+HSTM,"HealthStream, Inc. - Common Stock",33.46,89.5,0.0,29.45,25.82,24.75,33.46,19.79
+MANH,"Manhattan Associates, Inc. - Common Stock",217.89,89.4,-2.6,206.25,164.06,162.14,223.76,120.88
+LQDT,"Liquidity Services, Inc. - Common Stock",43.39,89.4,-0.6,42.21,37.53,36.05,43.64,22.16
+FRSH,Freshworks Inc. - Class A Common Stock,13.92,89.4,0.0,12.74,10.34,10.24,13.92,6.88
+OGN,Organon & Co. Common Stock ,13.77,89.3,-0.3,13.7,12.14,11.07,13.81,5.68
+KGEI,Kolibri Global Energy Inc. - Common stock,6.49,89.3,-5.7,6.11,5.54,5.13,6.88,3.38
+RAL,Ralliant Corporation Common Stock,72.31,89.2,-2.2,67.67,60.14,57.31,73.96,38.28
+SCSC,"ScanSource, Inc. - Common Stock",60.67,89.2,-2.5,56.97,48.87,46.43,62.22,34.27
+ANET,"Arista Networks, Inc. Common Stock",210.88,89.1,-2.7,198.47,170.5,161.47,216.74,116.13
+LGND,Ligand Pharmaceuticals Incorporated - Common Stock,311.13,89.0,-3.6,292.51,261.52,244.87,322.61,177.73
+UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,46.32,88.9,-1.4,43.64,39.68,37.62,46.97,27.36
+MRK,"Merck & Company, Inc. Common Stock (new)",145.45,88.8,-6.5,143.26,126.4,122.75,155.53,80.14
+ENTG,"Entegris, Inc. - Common Stock",160.01,88.8,-13.0,146.96,140.6,134.39,183.84,68.64
+GIC,Global Industrial Company Common Stock,43.6,88.7,-0.0,40.19,34.59,33.6,43.61,25.97
+CNQ,Canadian Natural Resources Limited Common Stock,50.5,88.7,-2.0,48.69,46.08,43.77,51.55,29.07
+EGY,"VAALCO Energy, Inc.  Common Stock",6.1,88.7,-6.6,5.84,5.68,5.37,6.53,3.26
+MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),403.34,88.6,-3.1,398.43,370.34,350.01,416.34,212.91
+RCBC,River City Bank - Common stock,55.94,88.6,0.0,50.98,45.28,44.84,55.94,38.13
+VTRS,Viatris Inc. - Common Stock,17.54,88.6,-4.0,16.9,15.86,15.32,18.27,9.41
+CHRD,Chord Energy Corporation - Common Stock,144.57,88.5,-7.9,141.73,134.81,125.36,157.0,81.47
+CSCO,"Cisco Systems, Inc. - Common Stock",115.34,88.3,-10.6,111.93,105.19,98.14,129.02,66.23
+UEIC,Universal Electronics Inc. - Common Stock,5.5,88.3,-3.0,4.95,4.35,4.18,5.67,2.62
+HELE,Helen of Troy Limited - Common Stock,28.49,88.2,-5.7,28.19,24.88,23.29,30.22,13.88
+FMAO,"Farmers & Merchants Bancorp, Inc. - Common Stock",35.14,88.2,-1.2,34.57,29.91,28.85,35.56,22.27
+SBFG,"SB Financial Group, Inc. - Common Stock",29.47,88.2,-4.1,28.39,24.53,23.69,30.73,17.72
+ZD,"Ziff Davis, Inc. - Common Stock",57.58,88.1,-2.8,55.77,49.49,45.87,59.21,26.51
+ROG,Rogers Corporation Common Stock,145.84,88.0,-12.7,135.57,132.76,124.94,167.09,75.56
+HRTG,"Heritage Insurance Holdings, Inc. Common Stock",35.38,88.0,-0.1,33.78,28.5,28.0,35.42,20.88
+GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),26.64,88.0,-5.3,26.41,24.23,23.07,28.12,14.42
+E,ENI S.p.A. Common Stock,56.77,87.9,0.0,54.49,52.64,49.51,56.77,32.88
+RCKY,"Rocky Brands, Inc. - Common Stock",45.75,87.9,-9.6,45.68,41.67,39.76,50.59,26.14
+COP,ConocoPhillips Common Stock,137.56,87.9,-2.6,129.56,121.41,116.59,141.22,83.04
+ASMH,ASML Holding NV ADRhedged,12.35,87.8,-9.3,11.89,11.13,10.57,13.62,6.28
+NXPL,NextPlat Corp - Common Stock,8.9,87.8,-9.2,8.58,6.86,6.63,9.8,3.7
+SXC,"SunCoke Energy, Inc. Common Stock",10.06,87.7,-4.8,9.69,8.23,7.94,10.57,5.51
+AIRT,"Air T, Inc. - Common Stock",30.64,87.7,-10.6,30.43,25.64,24.58,34.26,18.35
+OSPN,OneSpan Inc. - Common Stock,17.85,87.6,-3.1,16.88,14.1,13.42,18.42,9.96
+DRH,Diamondrock Hospitality Company - Common Stock,12.78,87.6,-3.6,12.37,11.34,10.82,13.26,7.21
+CBZ,"CBIZ, Inc. Common Stock",54.78,87.6,-1.3,54.68,40.04,39.98,55.5,25.14
+WCCB,West Coast Community Bancorp - Common Stock,61.26,87.5,0.0,57.25,52.03,50.37,61.26,39.67
+PBI,Pitney Bowes Inc. Common Stock,16.94,87.4,-8.0,16.9,15.61,14.28,18.4,8.84
+RUSHB,"Rush Enterprises, Inc. - Class B Common Stock",56.83,87.4,-0.9,53.14,48.62,46.57,57.34,31.69
+KNTK,Kinetik Holdings Inc. Class A Common Stock,54.53,87.3,-1.0,53.02,49.03,46.5,55.1,30.05
+XOM,ExxonMobil Holdings Corporation Common Stock,172.15,87.2,0.0,161.7,153.52,149.21,172.15,107.52
+BZH,"Beazer Homes USA, Inc. Common Stock",33.43,87.2,-1.9,33.28,27.65,26.68,34.07,18.03
+CCSI,"Consensus Cloud Solutions, Inc. - Common Stock",36.96,87.1,-7.3,36.77,32.95,30.93,39.85,20.24
+MSM,"MSC Industrial Direct Company, Inc. Common Stock",128.67,87.1,-1.3,122.6,111.94,105.8,130.38,78.9
+NKSH,"National Bankshares, Inc. - Common Stock",43.38,87.0,0.0,42.04,38.0,37.35,43.38,25.92
+SANM,Sanmina Corporation - Common Stock,213.74,86.9,-24.4,205.82,202.93,190.58,282.72,122.71
+FCX,"Freeport-McMoRan, Inc. Common Stock",73.29,86.8,-8.3,71.78,65.42,64.15,79.91,38.38
+TITN,Titan Machinery Inc. - Common Stock,23.08,86.8,-12.0,21.68,20.18,19.51,26.22,14.15
+NXDR,"Nextdoor Holdings, Inc. Class A Common Stock",2.59,86.8,-6.5,2.42,2.08,2.02,2.77,1.36
+NVT,nVent Electric plc Ordinary Shares ,162.78,86.8,-11.6,159.99,152.66,142.28,184.1,94.55
+PK,Park Hotels & Resorts Inc. Common Stock ,15.17,86.7,-4.7,15.06,13.08,12.45,15.91,9.08
+ACHC,"Acadia Healthcare Company, Inc. - Common Stock",30.08,86.7,-15.5,28.98,27.48,24.61,35.61,11.68
+SHEH,Shell plc ADRhedged,74.72,86.6,0.0,68.12,64.4,62.0,74.72,50.56
+ACCO,Acco Brands Corporation Common Stock,4.54,86.6,0.0,4.28,3.8,3.79,4.54,2.74
+KFFB,Kentucky First Federal Bancorp - Common Stock,5.74,86.6,-8.7,5.68,4.99,4.89,6.29,3.35
+PLXS,Plexus Corp. - Common Stock,256.56,86.6,-15.6,256.14,252.37,235.13,303.82,132.74
+BIIB,Biogen Inc. - Common Stock,229.41,86.5,0.0,217.58,201.22,196.71,229.41,142.26
+NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),23.89,86.4,-4.7,22.59,21.53,20.8,25.06,14.2
+GGB,Gerdau S.A. Common Stock,5.14,86.4,-0.6,4.84,4.45,4.33,5.17,3.08
+BOX,"Box, Inc. Class A Common Stock",36.71,86.4,0.0,33.8,28.52,27.89,36.71,21.37
+WKC,World Kinect Corporation Common Stock,36.12,86.3,-9.7,35.92,31.05,29.63,39.99,22.1
+EXPD,"Expeditors International of Washington, Inc. Common Stock",193.41,86.3,-0.4,187.56,166.73,163.55,194.12,111.96
+EZPW,"EZCORP, Inc. - Class A Non-Voting Common Stock",32.64,86.2,-8.3,31.0,30.85,28.89,35.59,17.41
+PRSU,"Pursuit Attractions and Hospitality, Inc. Common Stock",53.0,86.0,-5.3,49.12,46.26,43.53,55.97,32.28
+SCCO,Southern Copper Corporation Common Stock,208.69,86.0,-5.0,200.07,183.47,182.44,219.7,114.69
+A,"Agilent Technologies, Inc. Common Stock",171.33,85.8,-2.1,156.03,133.89,133.34,174.95,109.61
+PNTG,"The Pennant Group, Inc. - Common Stock",40.52,85.8,-4.6,39.23,35.92,34.53,42.48,23.64
+EXEL,"Exelixis, Inc. - Common Stock",59.82,85.7,-0.1,56.28,51.5,49.53,59.86,34.54
+EPC,Edgewell Personal Care Company Common Stock,28.29,85.7,-4.1,27.78,24.12,22.95,29.5,15.6
+RBKB,"Rhinebeck Bancorp, Inc. - Common Stock",12.87,85.6,-2.7,12.76,12.01,11.4,13.23,6.89
+SHEL,Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ,100.18,85.6,-0.0,93.5,88.14,84.79,100.2,68.43
+CVX,Chevron Corporation Common Stock,215.0,85.6,-1.3,204.23,191.78,186.08,217.77,142.76
+GSAT,"Globalstar, Inc. - Common Stock",83.04,85.5,-1.6,82.65,79.02,74.55,84.43,41.54
+NMAX,"Newsmax, Inc. Class B Common Stock",10.36,85.5,-10.8,10.3,8.3,7.97,11.62,5.16
+BSET,"Bassett Furniture Industries, Incorporated - Common Stock",21.42,85.5,-1.4,18.97,16.78,16.42,21.73,13.59
+ATLO,Ames National Corporation - Common Stock,31.83,85.5,-3.0,31.68,29.53,28.4,32.82,18.96
+AFRI,Forafric Global PLC - Ordinary Shares,12.76,85.4,0.0,11.08,10.37,10.31,12.76,8.54
+TECK,Teck Resources Ltd Ordinary Shares,67.54,85.4,-6.0,66.72,61.22,59.41,71.87,38.06
+DBX,"Dropbox, Inc. - Class A Common Stock",34.87,85.3,-7.6,34.61,29.16,28.37,37.74,22.06
+FLYW,Flywire Corporation - Voting Common Stock,18.42,85.2,-5.7,18.06,15.99,15.21,19.54,10.64
+MD,"Pediatrix Medical Group, Inc. Common Stock",26.92,85.2,-1.7,26.35,24.2,23.42,27.39,15.8
+AMGN,Amgen Inc. - Common Stock,417.57,85.2,-6.0,411.86,369.07,363.64,444.12,282.3
+ADI,"Analog Devices, Inc. - Common Stock",406.25,85.2,-8.5,380.42,378.29,361.96,444.13,222.42
+MEOH,Methanex Corporation - Common Stock,61.61,85.0,-5.7,58.58,57.31,54.72,65.32,33.39
+WCC,"WESCO International, Inc. Common Stock",361.34,85.0,-5.9,355.55,334.27,321.28,384.09,206.94
+SAIC,Science Applications International Corporation - Common Stock,133.05,85.0,-1.2,127.56,110.84,107.73,134.66,81.4
+TXN,Texas Instruments Incorporated - Common Stock,281.74,84.9,-14.8,272.0,267.37,250.63,330.59,150.79
+MFIN,Medallion Financial Corp. - Common Stock,11.85,84.7,-3.0,11.67,10.08,10.01,12.22,7.8
+BOW,Bowhead Specialty Holdings Inc. Common Stock,34.02,84.7,-0.2,33.69,28.9,28.02,34.1,21.44
+ACA,"Arcosa, Inc. Common Stock ",147.27,84.6,0.0,145.66,132.35,128.22,147.27,88.99
+ABBV,AbbVie Inc. Common Stock,281.12,84.6,0.0,259.5,234.36,231.03,281.12,195.99
+BPRN,"Princeton Bancorp, Inc. - Common Stock",43.31,84.5,-1.3,42.94,38.13,37.27,43.88,28.64
+SLAB,"Silicon Laboratories, Inc. - Common Stock",221.7,84.5,-0.5,219.96,216.55,205.23,222.8,116.08
+DSGR,"Distribution Solutions Group, Inc. - Common Stock",35.06,84.4,-0.0,34.85,30.1,29.85,35.07,19.31
+WNC,Wabash National Corporation Common Stock,13.17,84.3,-7.4,12.67,10.63,10.49,14.23,6.69
+AMG,"Affiliated Managers Group, Inc. Common Stock",381.83,84.2,-1.4,366.34,332.52,326.52,387.26,230.75
+WST,"West Pharmaceutical Services, Inc. Common Stock",367.6,84.1,-2.4,355.8,322.14,304.99,376.76,230.63
+NDSN,Nordson Corporation - Common Stock,330.44,84.1,-1.2,318.87,293.8,288.41,334.43,223.9
+AUDC,AudioCodes Ltd. - Ordinary Shares,11.36,84.1,-0.3,10.15,9.35,8.95,11.39,6.7
+FDBC,"Fidelity D & D Bancorp, Inc. - Common Stock",56.14,83.9,-1.0,54.55,49.31,47.91,56.72,39.82
+PM,Philip Morris International Inc Common Stock,202.0,83.9,0.0,188.72,178.26,176.24,202.0,139.4
+DVN,Devon Energy Corporation Common Stock,48.96,83.7,-4.7,47.25,46.07,44.47,51.37,30.95
+IFF,"International Flavors & Fragrances, Inc. Common Stock",84.96,83.7,-3.1,84.38,77.38,76.22,87.66,58.25
+CCEL,"Cryo-Cell International, Inc. Common Stock",4.5,83.7,-1.5,4.06,3.66,3.6,4.57,2.89
+FBLA,"FB Bancorp, Inc. - Common Stock",17.03,83.6,-1.5,16.08,14.88,14.44,17.29,11.69
+EOG,"EOG Resources, Inc. Common Stock",150.51,83.6,-2.1,144.61,139.0,132.23,153.74,99.31
+BPH,BP plc ADRhedged,74.42,83.6,0.0,69.09,67.86,65.04,74.42,49.86
+TRV,"The Travelers Companies, Inc. Common Stock",371.68,83.5,-6.1,368.5,331.11,320.43,395.87,257.63
+RGA,"Reinsurance Group of America, Incorporated Common Stock",259.95,83.4,0.0,246.87,223.64,219.12,259.95,178.4
+BWIN,"The Baldwin Insurance Group, Inc. - Class A Common Stock",31.85,83.4,-2.0,30.94,25.48,24.63,32.49,16.5
+BP,BP p.l.c. Common Stock,46.73,83.4,-0.5,43.97,43.05,41.25,46.96,31.17
+COKE,"Coca-Cola Consolidated, Inc. - Common Stock",197.22,83.3,-8.8,191.19,188.77,182.8,216.33,123.69
+OXY,Occidental Petroleum Corporation Common Stock,61.13,83.3,-6.9,58.66,57.09,54.2,65.63,38.38
+AAPL,Apple Inc. - Common Stock,340.97,83.2,-0.0,323.0,299.86,290.75,341.07,244.37
+LXP,LXP Industrial Trust Common Stock (Maryland REIT),61.05,83.2,-0.2,60.82,54.69,53.06,61.15,42.24
+CBNK,"Capital Bancorp, Inc. - Common Stock",38.91,83.1,-3.8,37.15,33.87,32.85,40.45,26.31
+TTE,TotalEnergies SE Ordinary Shares,88.37,83.1,-4.5,87.63,86.24,82.26,92.51,55.27
+PRTH,"Priority Technology Holdings, Inc. - Common Stock",7.79,83.0,-0.3,6.34,6.02,5.93,7.81,4.64
+IOSP,Innospec Inc. - Common Stock,95.66,82.8,-3.1,94.17,83.5,82.53,98.72,65.12
+SGC,"Superior Group of Companies, Inc. - Common Stock",13.26,82.8,-5.1,12.75,12.05,11.47,13.98,8.18
+CRVL,CorVel Corp. - Common Stock,77.92,82.8,0.0,69.83,62.12,61.6,77.92,46.0
+RS,"Reliance, Inc. Common Stock",401.12,82.6,-6.3,399.35,372.2,358.65,428.02,261.99
+DV,"DoubleVerify Holdings, Inc. Common Stock",13.52,82.5,0.0,13.26,11.4,11.16,13.52,8.61
+AVBC,"Avidia Bancorp, Inc. Common Stock",22.07,82.5,-2.3,21.89,20.61,19.93,22.59,14.26
+NTCT,"NetScout Systems, Inc. - Common Stock",40.05,82.4,-10.7,39.07,37.97,35.54,44.84,25.47
+DSP,Viant Technology Inc. - common stock,13.17,82.3,-6.5,12.64,11.86,11.66,14.09,8.14
+BNED,"Barnes & Noble Education, Inc Common Stock",12.42,82.3,-9.0,11.84,10.97,10.38,13.65,6.08
+MET,"MetLife, Inc. Common Stock",100.17,82.3,0.0,96.6,86.07,83.51,100.17,66.77
+MTCH,"Match Group, Inc. - Common Stock",41.52,82.1,-6.0,40.46,36.85,35.37,44.18,28.43
+KO,Coca-Cola Company (The) Common Stock,89.79,82.0,-1.8,87.71,81.77,79.68,91.44,65.07
+BBY,"Best Buy Co., Inc. Common Stock",86.99,82.0,-8.3,86.87,74.5,71.93,94.82,54.22
+NPK,"National Presto Industries, Inc. Common Stock",148.34,81.9,-5.4,147.26,137.62,133.94,156.8,90.92
+GENC,"Gencor Industries, Inc. Common Stock",17.95,81.7,-10.2,17.69,15.82,15.46,20.0,12.23
+BSVN,Bank7 Corp. - Common stock,55.17,81.6,-3.4,53.22,47.26,46.01,57.11,37.85
+KRNT,Kornit Digital Ltd. - Ordinary Shares,18.31,81.4,0.0,16.63,15.87,15.57,18.31,12.31
+DJCO,Daily Journal Corp. (S.C.) - Common Stock,640.57,81.4,-6.8,627.74,562.63,562.07,687.66,374.53
+IEX,IDEX Corporation Common Stock,235.77,81.4,-1.7,230.01,216.13,211.1,239.76,158.66
+WAT,Waters Corporation Common Stock,432.1,81.3,-2.5,417.0,366.56,365.2,443.26,283.32
+GILD,"Gilead Sciences, Inc. - Common Stock",150.43,81.2,-1.7,144.64,136.13,136.03,153.05,114.35
+JCSE,JE Cleantech Holdings Limited - Ordinary Shares,1.51,81.0,-17.0,1.47,1.33,1.28,1.82,0.77
+PEBK,"Peoples Bancorp of North Carolina, Inc. - Common Stock",44.61,80.9,-1.0,43.71,41.85,40.57,45.04,27.47
+SDRL,Seadrill Limited Common Shares,46.99,80.8,-14.3,46.59,45.67,44.01,54.8,28.4
+APH,Amphenol Corporation Common Stock,86.19,80.7,-2.7,82.34,75.54,74.56,88.62,59.39
+KDP,Keurig Dr Pepper Inc. - Common Stock,32.75,80.4,-1.5,31.14,29.58,29.12,33.26,24.95
+MKTW,"MarketWise, Inc. - Class A Common Stock",19.2,80.2,-7.9,18.87,17.63,16.73,20.85,12.46
+FCAP,"First Capital, Inc. - Common Stock",62.9,80.1,-8.3,62.82,58.74,57.22,68.56,38.05
+RLGT,"Radiant Logistics, Inc. Common Stock",9.07,80.1,-7.5,8.68,8.45,8.08,9.81,5.88
+VABK,Virginia National Bankshares Corporation - Common Stock,49.23,80.1,0.0,47.35,43.78,42.69,49.23,36.53
+HST,"Host Hotels & Resorts, Inc. - Common Stock",22.74,80.1,-10.2,22.45,21.7,20.76,25.31,14.65
+CVLT,"Commvault Systems, Inc. - Common Stock",155.37,80.0,-11.9,141.27,120.83,116.38,176.43,75.18
