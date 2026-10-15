@@ -1,0 +1,13 @@
+Sector,AT_High_Count,Near_High_Count,Avg_Pct_From_High,Top_Tickers
+Unknown,132,275,-1.6,"ZETA, AAPL, XOM, SHEL, SOUL"
+Financial Services,45,97,-1.9,"CAPN, CRVL, HRTG, RANG, DNMX"
+Healthcare,18,30,-1.4,"BIIB, PFE, EHC, ELV, EXEL"
+Energy,8,12,-1.2,"SU, PSX, PBF, INSW, EOG"
+Technology,7,20,-2.2,"P, NTWK, OST, CRSR, AMPL"
+Industrials,6,17,-2.2,"EXPD, ECO, ATKR, HMR, ABM"
+Utilities,4,6,-2.0,"GNE, TXNM, NWE, BKH, OGE"
+Communication Services,3,13,-2.4,"MSGM, DV, CNK, PSO, IDT"
+Consumer Cyclical,2,6,-1.8,"JRSH, HZO, JILL, BZH, CZR"
+Basic Materials,1,5,-3.1,"GGB, MEOH, SXT, SXC, RS"
+Consumer Defensive,1,6,-2.6,"KO, CHD, LAUR, ACU, GHC"
+Real Estate,1,2,-1.9,"LXP, IHS"
