@@ -1,0 +1,13 @@
+Sector,AT_High_Count,Near_High_Count,Avg_Pct_From_High,Top_Tickers
+Unknown,119,281,-1.8,"UCFI, TVAI, AII, WTG, FACT"
+Financial Services,40,105,-2.1,"SLDE, FDBC, TAVI, FERA, RANG"
+Healthcare,12,28,-1.7,"XERS, MCTA, ELV, WST, EXEL"
+Industrials,5,12,-1.9,"ABM, TTC, MG, EXPD, GIC"
+Energy,4,8,-1.5,"HPK, PR, SU, EOG, PSX"
+Technology,4,12,-2.3,"OST, NTWK, RAMP, SLAB, SAIC"
+Communication Services,4,9,-2.0,"CNK, PSO, DV, IDT, GSAT"
+Consumer Defensive,3,8,-2.1,"CHD, KO, CCEP, GHC, FMX"
+Consumer Cyclical,1,16,-3.5,"HZO, HLT, BZH, JRSH, JILL"
+Basic Materials,1,6,-2.6,"GGB, MEOH, SXC, RS, SXT"
+Real Estate,1,2,-1.8,"LXP, IHS"
+Utilities,1,6,-2.2,"TXNM, BKH, NWE, GNE, WTRG"
