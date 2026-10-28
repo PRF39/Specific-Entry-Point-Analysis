@@ -2303,5 +2303,8 @@
   "PTC": "Unknown",
   "VNOM": "Unknown",
   "MICC": "Unknown",
-  "LMT": "Unknown"
+  "LMT": "Unknown",
+  "CRAN": "Unknown",
+  "MSGK": "Unknown",
+  "CCI": "Unknown"
 }
