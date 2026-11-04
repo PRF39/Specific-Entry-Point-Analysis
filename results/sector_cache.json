@@ -2332,5 +2332,18 @@
   "CDLR": "Unknown",
   "NORD": "Unknown",
   "SMP": "Unknown",
-  "TASK": "Unknown"
+  "TASK": "Unknown",
+  "CHPT": "Unknown",
+  "PERI": "Unknown",
+  "ULH": "Unknown",
+  "IFBD": "Unknown",
+  "ITHA": "Unknown",
+  "WWW": "Unknown",
+  "ATR": "Unknown",
+  "UPBD": "Unknown",
+  "CHH": "Unknown",
+  "EPAC": "Unknown",
+  "CLPR": "Unknown",
+  "ASUR": "Unknown",
+  "MED": "Unknown"
 }
