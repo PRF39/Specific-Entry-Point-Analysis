@@ -2379,5 +2379,17 @@
   "ETD": "Unknown",
   "SPOK": "Unknown",
   "RDNT": "Unknown",
-  "COR": "Unknown"
+  "COR": "Unknown",
+  "PTLO": "Consumer Cyclical",
+  "ARDT": "Healthcare",
+  "CARS": "Communication Services",
+  "ENGS": "Industrials",
+  "COTY": "Consumer Defensive",
+  "DNUT": "Consumer Defensive",
+  "BSY": "Technology",
+  "CBOE": "Financial Services",
+  "BEKE": "Real Estate",
+  "KNSL": "Financial Services",
+  "NWN": "Utilities",
+  "STE": "Healthcare"
 }
