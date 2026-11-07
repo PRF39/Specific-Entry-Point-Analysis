@@ -1,0 +1,12 @@
+Sector,AT_High_Count,Near_High_Count,Avg_Pct_From_High,Top_Tickers
+Unknown,136,328,-2.0,"YCY, TEVA, SMA, SN, SGU"
+Financial Services,43,160,-2.3,"RAC, BLUW, COPL, CMTV, TAVI"
+Healthcare,12,33,-2.1,"OGN, EW, CAH, ARDT, DTIL"
+Utilities,7,17,-1.8,"GNE, BKH, EVRG, MSEX, NWE"
+Technology,6,13,-1.8,"CCSI, U, OST, ACIW, MSI"
+Industrials,5,15,-1.9,"BWMN, CYRX, AER, XMTR, ENGS"
+Consumer Cyclical,4,15,-2.6,"CLAR, HZO, ABNB, COLM, HLT"
+Consumer Defensive,4,9,-1.6,"COTY, KO, FMX, CCEP, CENTA"
+Communication Services,2,9,-2.1,"DV, GSAT, ROKU, CARS, OMC"
+Real Estate,2,10,-2.2,"AHR, PDM, EXR, PSA, KIM"
+Basic Materials,0,2,-4.8,"DD, AVNT"
