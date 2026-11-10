@@ -2394,5 +2394,17 @@
   "STE": "Healthcare",
   "GPAC": "Unknown",
   "SBXE": "Unknown",
-  "VNT": "Unknown"
+  "VNT": "Unknown",
+  "LFAC": "Financial Services",
+  "CKX": "Energy",
+  "TEM": "Healthcare",
+  "SAC": "Financial Services",
+  "NWAX": "Financial Services",
+  "LW": "Consumer Defensive",
+  "TIC": "Industrials",
+  "PCOR": "Technology",
+  "AGYS": "Technology",
+  "BILL": "Technology",
+  "EL": "Consumer Defensive",
+  "HHH": "Real Estate"
 }
