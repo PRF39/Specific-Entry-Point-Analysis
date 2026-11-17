@@ -2426,5 +2426,18 @@
   "ASBP": "Unknown",
   "BIII": "Financial Services",
   "DSAC": "Financial Services",
-  "MTRI": "Healthcare"
+  "MTRI": "Healthcare",
+  "BLRK": "Unknown",
+  "BGIN": "Unknown",
+  "COSM": "Unknown",
+  "MESH": "Unknown",
+  "AWX": "Unknown",
+  "VIA": "Unknown",
+  "APT": "Unknown",
+  "CWST": "Unknown",
+  "VRSK": "Unknown",
+  "CRAI": "Unknown",
+  "RTAC": "Unknown",
+  "KR": "Unknown",
+  "OGS": "Unknown"
 }
