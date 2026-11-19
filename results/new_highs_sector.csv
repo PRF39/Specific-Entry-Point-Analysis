@@ -1,12 +1,12 @@
 Sector,AT_High_Count,Near_High_Count,Avg_Pct_From_High,Top_Tickers
-Unknown,108,306,-2.1,"XHR, BLZR, TFX, BPAC, BGIN"
-Financial Services,45,137,-2.3,"BLUW, CRVL, JACS, DRDB, DNMX"
-Healthcare,7,25,-2.1,"GRDN, OGN, FENC, PCRX, XERS"
-Consumer Cyclical,4,14,-2.5,"DRI, HZO, JRSH, COLM, MAR"
-Technology,4,13,-2.9,"BILL, OST, SLAB, NATL, MSI"
-Industrials,3,22,-2.8,"USEA, CIX, WM, ABM, R"
-Communication Services,2,6,-2.2,"DV, GSAT, OMC, CNK, LLYVA"
-Consumer Defensive,2,7,-1.9,"CCEP, KO, FMX, GHC, CHD"
-Utilities,1,13,-2.8,"TXNM, WEC, OGE, XEL, WTRG"
-Basic Materials,0,1,-4.3,DD
-Real Estate,0,11,-2.8,"PDM, KIM, WELL, SPG, AHR"
+Unknown,132,328,-2.0,"YCY, WWW, SGU, SOUL, SN"
+Financial Services,43,122,-2.3,"DNMX, DRDB, CEPO, CCII, CRVL"
+Consumer Cyclical,7,15,-1.9,"COLM, DRI, HZO, SGC, JRSH"
+Industrials,6,20,-2.0,"CIX, ACCO, POWW, ABM, GFF"
+Healthcare,5,22,-2.4,"OGN, AMRX, LIVN, XERS, BDX"
+Utilities,5,13,-2.0,"TXNM, WEC, WTRG, AWK, OGE"
+Technology,4,13,-2.3,"BILL, OST, NATL, SLAB, PCOR"
+Communication Services,3,10,-2.2,"GSAT, DV, OMC, BATRA, LLYVA"
+Consumer Defensive,1,9,-2.3,"CCEP, KO, TGT, GHC, CENTA"
+Real Estate,1,11,-2.3,"PDM, WELL, SPG, AHR, KIM"
+Basic Materials,0,1,-4.2,DD
