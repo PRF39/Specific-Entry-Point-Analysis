@@ -2454,5 +2454,8 @@
   "TRUP": "Unknown",
   "TSN": "Unknown",
   "SPWR": "Unknown",
-  "FMBM": "Unknown"
+  "FMBM": "Unknown",
+  "IRHO": "Unknown",
+  "BEBE": "Unknown",
+  "CEPS": "Unknown"
 }
