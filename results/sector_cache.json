@@ -2463,5 +2463,8 @@
   "VHCP": "Unknown",
   "FDGX": "Unknown",
   "RSSS": "Unknown",
-  "MGRT": "Unknown"
+  "MGRT": "Unknown",
+  "VRDN": "Unknown",
+  "TGLS": "Unknown",
+  "ATER": "Unknown"
 }
