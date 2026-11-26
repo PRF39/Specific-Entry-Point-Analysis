@@ -1,0 +1,569 @@
+Ticker,Price,52W_High,Pct_From_52W_High,Sector
+ALEC,2.73,2.73,0.0,Unknown
+ADP,316.72,316.72,0.0,Unknown
+WTW,352.56,352.56,0.0,Unknown
+BLUW,10.46,10.46,0.0,Financial Services
+ZKP,10.1,10.1,0.0,Unknown
+ABM,55.14,55.14,0.0,Industrials
+AFG,160.76,160.76,0.0,Unknown
+UYSC,11.04,11.04,0.0,Unknown
+CARL,18.78,18.78,0.0,Unknown
+BPAC,10.32,10.32,0.0,Unknown
+BLZR,10.29,10.29,0.0,Unknown
+TACH,10.61,10.61,0.0,Unknown
+SOUL,10.56,10.56,-0.0,Unknown
+TAK,23.01,23.01,0.0,Unknown
+AVZO,5.19,5.19,0.0,Unknown
+VHCP,10.12,10.12,0.0,Unknown
+VRDN,37.91,37.91,0.0,Unknown
+VRSN,319.47,319.47,0.0,Unknown
+VRTX,564.12,564.12,0.0,Unknown
+UCFI,5.51,5.51,0.0,Unknown
+WENN,10.49,10.49,0.0,Financial Services
+TLS,7.93,7.93,0.0,Unknown
+TVAI,10.55,10.55,0.0,Unknown
+SKY,97.76,97.76,0.0,Consumer Cyclical
+CEPO,10.84,10.84,0.0,Financial Services
+SMA,40.32,40.32,0.0,Unknown
+SN,232.5,232.5,0.0,Unknown
+CRAC,10.31,10.31,0.0,Unknown
+TACO,10.53,10.53,0.0,Financial Services
+TASK,9.34,9.34,0.0,Unknown
+TFX,168.28,168.28,0.0,Unknown
+UPBD,27.39,27.39,0.0,Unknown
+USEA,3.19,3.19,0.0,Industrials
+SPEG,10.48,10.48,0.0,Unknown
+SZZL,10.56,10.56,-0.0,Unknown
+CRAI,229.1,229.1,0.0,Unknown
+COLM,80.75,80.75,0.0,Consumer Cyclical
+COKE,218.64,218.64,0.0,Unknown
+CDW,174.97,174.97,0.0,Unknown
+CCEP,117.99,117.99,0.0,Consumer Defensive
+CBRL,75.35,75.35,0.0,Unknown
+CRVL,91.51,91.51,0.0,Financial Services
+CRAQ,10.48,10.48,0.0,Unknown
+USFD,111.66,111.66,0.0,Unknown
+BATRK,54.44,54.44,0.0,Communication Services
+BDCI,10.23,10.23,0.0,Unknown
+VNT,45.51,45.51,0.0,Unknown
+WM,247.29,247.29,0.0,Industrials
+AHR,60.24,60.24,0.0,Real Estate
+AIZ,325.73,325.73,0.0,Financial Services
+AJG,292.39,292.39,0.0,Unknown
+ALUB,10.18,10.18,-0.0,Unknown
+ANF,176.96,176.96,0.0,Unknown
+AWK,152.84,152.84,0.0,Utilities
+RYTM,119.36,119.36,0.0,Unknown
+SAFT,104.55,104.55,0.0,Unknown
+SAIL,22.87,22.87,0.0,Unknown
+DMII,10.26,10.26,0.0,Unknown
+DNMX,10.16,10.16,-0.0,Financial Services
+EFTY,15.02,15.02,0.0,Unknown
+DRDB,10.83,10.83,0.0,Financial Services
+RDY,15.35,15.35,0.0,Unknown
+RGA,278.29,278.29,0.0,Unknown
+RXO,29.3,29.3,0.0,Industrials
+CINF,192.32,192.32,0.0,Financial Services
+SIGI,104.92,104.92,0.0,Financial Services
+BDX,221.24,221.24,0.0,Healthcare
+BOX,46.37,46.37,0.0,Unknown
+BIII,10.22,10.22,0.0,Financial Services
+EGHA,10.5,10.5,0.0,Financial Services
+RSSS,3.14,3.14,0.0,Unknown
+QUMS,10.44,10.44,-0.0,Unknown
+RANG,10.98,10.98,0.0,Financial Services
+DGICB,35.58,35.58,0.0,Financial Services
+QSEA,10.8,10.8,0.0,Unknown
+PRTH,7.92,7.92,0.0,Unknown
+NMP,10.47,10.47,0.0,Unknown
+GIW,10.3,10.3,0.0,Unknown
+PC,9.4,9.4,0.0,Unknown
+PCAP,10.46,10.47,-0.0,Financial Services
+MSI,541.0,541.0,0.0,Technology
+MRSH,216.66,216.66,0.0,Unknown
+FLYW,23.26,23.26,0.0,Technology
+NPK,161.0,161.0,0.0,Unknown
+OMC,90.7,90.7,0.0,Communication Services
+PAII,10.41,10.41,0.0,Unknown
+NATL,49.32,49.32,0.0,Technology
+PG,173.23,173.23,0.0,Unknown
+PACH,10.44,10.44,0.0,Financial Services
+PLX,3.23,3.23,0.0,Unknown
+PGR,238.7,238.7,0.0,Financial Services
+GSHR,10.67,10.67,0.0,Unknown
+GTERA,10.5,10.5,0.0,Unknown
+OBA,10.45,10.45,0.0,Unknown
+PLUS,97.71,97.71,0.0,Unknown
+PLMR,167.74,167.74,0.0,Financial Services
+PGAC,10.89,10.89,0.0,Unknown
+DRI,241.16,241.16,0.0,Consumer Cyclical
+DIS,125.6,125.6,0.0,Unknown
+DGX,265.64,265.64,0.0,Unknown
+OYSE,10.49,10.49,0.0,Unknown
+OST,1.7,1.7,0.0,Technology
+FERA,10.64,10.64,0.0,Financial Services
+EXPO,91.76,91.76,0.0,Unknown
+EXLS,45.1,45.1,0.0,Unknown
+EVOX,10.18,10.18,0.0,Unknown
+HCAC,10.28,10.28,0.0,Unknown
+TGLS,57.29,57.29,0.0,Unknown
+WEC,119.09,119.09,0.0,Utilities
+WRB,79.34,79.34,0.0,Unknown
+WTRG,46.23,46.23,0.0,Utilities
+GRDN,52.11,52.11,0.0,Healthcare
+LCCC,10.68,10.68,0.0,Unknown
+LPBB,10.87,10.87,0.0,Financial Services
+LKSP,10.34,10.34,0.0,Unknown
+GKOS,259.9,259.9,0.0,Unknown
+GFF,107.98,107.98,0.0,Industrials
+DUK,131.9,131.9,0.0,Unknown
+DV,13.6,13.6,0.0,Communication Services
+IGAC,10.2,10.2,0.0,Unknown
+INAC,10.46,10.46,0.0,Unknown
+IPAR,142.65,142.65,0.0,Unknown
+KSS,26.7,26.7,0.0,Unknown
+ITHA,10.12,10.12,0.0,Unknown
+MAS,86.93,86.93,0.0,Industrials
+GDYN,14.12,14.12,0.0,Unknown
+MAGH,6.76,6.76,0.0,Unknown
+MDLZ,67.81,67.81,0.0,Unknown
+EXR,161.39,161.39,0.0,Real Estate
+EG,433.64,433.64,0.0,Unknown
+MKLY,10.35,10.35,0.0,Financial Services
+KCHV,10.6,10.6,0.0,Unknown
+JXG,14.58,14.58,0.0,Unknown
+FCN,212.29,212.29,0.0,Unknown
+LFAC,10.15,10.15,0.0,Financial Services
+KNSL,416.51,416.51,0.0,Financial Services
+JACS,10.87,10.87,0.0,Financial Services
+IBN,36.5,36.5,0.0,Unknown
+HZO,52.94,52.96,-0.0,Consumer Cyclical
+FIRY,14.5,14.5,0.0,Unknown
+FMBM,46.98,46.98,0.0,Unknown
+VFC,21.47,21.47,0.0,Unknown
+ASO,73.33,73.33,0.0,Unknown
+VIA,46.71,46.71,0.0,Unknown
+ZIM,30.88,30.9,-0.1,Unknown
+WSBK,13.87,13.89,-0.1,Financial Services
+BLRK,10.15,10.16,-0.1,Unknown
+TDAC,10.91,10.92,-0.1,Unknown
+AXIN,10.41,10.42,-0.1,Financial Services
+SDHI,10.64,10.65,-0.1,Financial Services
+DMAA,10.91,10.92,-0.1,Unknown
+RDAG,10.51,10.52,-0.1,Financial Services
+BEBE,10.09,10.1,-0.1,Unknown
+DYOR,10.19,10.2,-0.1,Unknown
+DSGR,35.06,35.09,-0.1,Unknown
+PMTR,10.49,10.5,-0.1,Financial Services
+NPAC,10.59,10.6,-0.1,Financial Services
+DAAQ,10.54,10.55,-0.1,Unknown
+CUB,10.98,11.0,-0.1,Financial Services
+LWAC,10.41,10.42,-0.1,Financial Services
+IRHO,10.12,10.13,-0.1,Unknown
+MBVI,10.32,10.33,-0.1,Unknown
+MESH,10.13,10.14,-0.1,Unknown
+KYMR,173.77,173.92,-0.1,Healthcare
+LPAA,11.17,11.19,-0.1,Unknown
+JENA,10.48,10.49,-0.1,Financial Services
+KIM,26.05,26.07,-0.1,Real Estate
+VLTO,120.19,120.31,-0.1,Unknown
+TXNM,58.9,58.98,-0.1,Utilities
+ADAC,10.14,10.15,-0.1,Unknown
+ZBH,110.06,110.15,-0.1,Unknown
+YCY,10.36,10.38,-0.2,Unknown
+LATA,10.27,10.29,-0.2,Financial Services
+RNGT,10.25,10.27,-0.2,Unknown
+CB,380.51,381.28,-0.2,Unknown
+SBXE,10.16,10.18,-0.2,Unknown
+RAC,10.61,10.63,-0.2,Financial Services
+TECH,72.65,72.81,-0.2,Unknown
+APAC,10.32,10.34,-0.2,Unknown
+AAPL,355.58,356.27,-0.2,Unknown
+VNME,10.37,10.39,-0.2,Financial Services
+KBON,10.17,10.2,-0.3,Unknown
+MMTX,10.27,10.3,-0.3,Unknown
+PTC,196.0,196.55,-0.3,Unknown
+RLI,71.3,71.54,-0.3,Unknown
+BOW,34.23,34.34,-0.3,Financial Services
+CAH,282.91,283.85,-0.3,Healthcare
+EVRG,87.77,88.04,-0.3,Utilities
+NTSK,26.44,26.52,-0.3,Unknown
+VCEL,61.01,61.18,-0.3,Unknown
+ALLE,192.2,192.69,-0.3,Unknown
+CCAQ,10.67,10.7,-0.3,Financial Services
+SPG,233.98,234.75,-0.3,Real Estate
+AVPT,17.3,17.35,-0.3,Unknown
+TAVI,10.83,10.87,-0.4,Financial Services
+ADT,9.89,9.93,-0.4,Unknown
+ALF,10.91,10.95,-0.4,Financial Services
+CHAR,10.97,11.02,-0.4,Financial Services
+BANF,122.21,122.75,-0.4,Unknown
+COST,1086.81,1091.71,-0.4,Unknown
+OGN,13.86,13.92,-0.4,Healthcare
+EVAC,10.39,10.43,-0.4,Unknown
+DEO,101.76,102.16,-0.4,Unknown
+CVCO,694.9,697.76,-0.4,Unknown
+CTAS,227.65,228.51,-0.4,Industrials
+CSL,411.61,413.42,-0.4,Unknown
+BBIO,89.79,90.17,-0.4,Unknown
+FCRS,10.26,10.3,-0.4,Unknown
+REGN,981.87,987.09,-0.5,Healthcare
+FENC,13.51,13.58,-0.5,Healthcare
+ACGL,110.29,110.89,-0.5,Unknown
+ED,120.37,120.97,-0.5,Unknown
+LIVN,94.06,94.54,-0.5,Healthcare
+TDWD,10.19,10.24,-0.5,Unknown
+CHEC,10.35,10.4,-0.5,Unknown
+RSG,254.16,255.56,-0.5,Unknown
+AIIA,10.35,10.4,-0.5,Unknown
+BRZE,46.41,46.64,-0.5,Unknown
+BMBL,5.98,6.01,-0.5,Unknown
+TRV,406.86,409.25,-0.6,Financial Services
+LTH,47.81,48.09,-0.6,Unknown
+CCII,10.34,10.4,-0.6,Financial Services
+ATR,145.48,146.35,-0.6,Unknown
+PAYO,7.19,7.23,-0.6,Unknown
+R,282.69,284.54,-0.6,Industrials
+AFL,127.51,128.29,-0.6,Financial Services
+CRAN,10.15,10.21,-0.6,Unknown
+BWIN,32.3,32.49,-0.6,Unknown
+EW,106.36,107.15,-0.7,Healthcare
+SGU,13.22,13.31,-0.7,Unknown
+OGE,51.39,51.74,-0.7,Utilities
+TLNC,10.31,10.38,-0.7,Financial Services
+ORIQ,10.45,10.52,-0.7,Unknown
+HNI,50.41,50.84,-0.8,Consumer Cyclical
+SLAB,221.09,222.8,-0.8,Technology
+BATRA,59.13,59.61,-0.8,Communication Services
+ACCO,5.48,5.52,-0.8,Industrials
+CAPN,11.46,11.55,-0.8,Financial Services
+AXGN,59.34,59.83,-0.8,Unknown
+GPAC,10.15,10.23,-0.8,Unknown
+LLYVA,105.49,106.37,-0.8,Communication Services
+MNDO,1.26,1.27,-0.8,Unknown
+LFST,14.48,14.6,-0.8,Unknown
+SAC,10.15,10.24,-0.9,Financial Services
+FDGX,10.31,10.4,-0.9,Unknown
+APPN,55.08,55.58,-0.9,Unknown
+DSAC,10.1,10.19,-0.9,Financial Services
+GILD,176.74,178.29,-0.9,Unknown
+ALL,271.39,273.97,-0.9,Financial Services
+CLMB,42.78,43.16,-0.9,Unknown
+TOP,17.29,17.45,-0.9,Unknown
+SWIM,8.33,8.41,-1.0,Unknown
+RPRX,70.57,71.31,-1.0,Unknown
+CON,43.06,43.49,-1.0,Unknown
+GSAT,85.87,86.76,-1.0,Communication Services
+NWAX,10.12,10.22,-1.0,Financial Services
+FACT,10.79,10.9,-1.0,Unknown
+DBX,37.41,37.83,-1.1,Unknown
+FIZZ,37.25,37.65,-1.1,Unknown
+USPH,98.58,99.64,-1.1,Unknown
+HOG,34.2,34.59,-1.1,Unknown
+XEL,81.11,82.01,-1.1,Utilities
+ULBI,15.6,15.79,-1.2,Unknown
+CHD,113.31,114.74,-1.2,Consumer Defensive
+TDC,37.42,37.88,-1.2,Technology
+COPL,10.69,10.82,-1.2,Financial Services
+PROV,18.35,18.57,-1.2,Financial Services
+BALL,67.18,68.07,-1.3,Consumer Cyclical
+FSHP,11.4,11.55,-1.3,Financial Services
+SLSN,2.26,2.29,-1.3,Unknown
+CL,99.66,100.99,-1.3,Unknown
+VABK,49.35,50.0,-1.3,Financial Services
+GTN,5.91,5.99,-1.3,Unknown
+AVBH,34.49,34.95,-1.3,Financial Services
+VPV,11.01,11.15,-1.3,Financial Services
+AVY,191.64,194.1,-1.3,Unknown
+SBUX,107.74,109.3,-1.4,Unknown
+PSA,337.98,342.76,-1.4,Real Estate
+SKWD,64.73,65.63,-1.4,Financial Services
+BCSS,10.26,10.41,-1.4,Financial Services
+APD,314.26,318.87,-1.4,Unknown
+AMGN,469.24,475.73,-1.4,Unknown
+WMT,131.94,133.88,-1.4,Unknown
+TWLV,10.23,10.38,-1.4,Unknown
+VRNS,49.42,50.12,-1.4,Unknown
+MGYR,22.75,23.09,-1.5,Financial Services
+UTL,55.29,56.12,-1.5,Unknown
+ICE,177.81,180.59,-1.5,Unknown
+SGRY,26.55,26.96,-1.5,Unknown
+WTG,10.68,10.84,-1.5,Unknown
+CEPF,10.33,10.5,-1.6,Financial Services
+DLTR,152.21,154.65,-1.6,Unknown
+WELL,246.18,250.26,-1.6,Real Estate
+CRT,13.78,14.01,-1.6,Unknown
+PERI,11.26,11.45,-1.7,Unknown
+STE,261.17,265.66,-1.7,Healthcare
+CBLL,29.44,29.94,-1.7,Unknown
+APOG,47.46,48.27,-1.7,Industrials
+HMN,52.79,53.73,-1.7,Unknown
+TVC,23.81,24.23,-1.7,Unknown
+CPAY,454.33,462.22,-1.7,Unknown
+DTSQ,11.5,11.7,-1.7,Unknown
+MMM,189.83,193.14,-1.7,Unknown
+KNSA,100.99,102.72,-1.7,Healthcare
+XERS,17.37,17.69,-1.8,Healthcare
+PVH,96.94,98.68,-1.8,Unknown
+CPK,139.22,141.7,-1.8,Unknown
+COTY,4.25,4.33,-1.8,Consumer Defensive
+AWR,88.93,90.54,-1.8,Utilities
+ESQ,130.85,133.23,-1.8,Financial Services
+III,6.17,6.28,-1.8,Unknown
+SO,95.0,96.7,-1.8,Utilities
+SPOT,616.46,627.66,-1.8,Unknown
+WEN,8.87,9.04,-1.9,Unknown
+ABBV,294.48,300.28,-1.9,Healthcare
+AMRX,21.48,21.9,-1.9,Healthcare
+TLIH,5.79,5.9,-1.9,Unknown
+BIXI,10.14,10.33,-1.9,Financial Services
+ECL,308.89,315.01,-1.9,Unknown
+ROP,483.09,492.22,-1.9,Unknown
+SIRI,32.51,33.13,-1.9,Unknown
+LH,368.95,376.11,-1.9,Unknown
+KO,97.59,99.48,-1.9,Consumer Defensive
+MA,659.97,672.68,-1.9,Unknown
+WWW,25.34,25.87,-2.0,Unknown
+AFCG,3.57,3.64,-2.0,Unknown
+AMPH,29.12,29.71,-2.0,Unknown
+HWBK,39.3,40.1,-2.0,Unknown
+ITT,216.51,220.83,-2.0,Industrials
+BMRN,68.86,70.24,-2.0,Healthcare
+MSEX,58.22,59.47,-2.1,Utilities
+CHH,121.86,124.46,-2.1,Unknown
+DD,153.62,156.88,-2.1,Basic Materials
+ASUR,10.75,10.98,-2.1,Unknown
+ICCC,11.47,11.72,-2.1,Unknown
+GCL,1.53,1.57,-2.2,Unknown
+TGT,172.22,176.06,-2.2,Consumer Defensive
+EGG,10.61,10.85,-2.2,Unknown
+ELAN,26.24,26.84,-2.2,Unknown
+GTEN,10.46,10.7,-2.2,Financial Services
+PDM,9.89,10.11,-2.2,Real Estate
+ELOG,2.23,2.28,-2.2,Unknown
+SMP,44.61,45.64,-2.2,Unknown
+SHW,361.02,369.12,-2.2,Basic Materials
+AEE,114.88,117.49,-2.2,Utilities
+LLYVK,107.79,110.35,-2.3,Communication Services
+OABI,5.18,5.3,-2.3,Healthcare
+CBNA,51.61,52.85,-2.3,Unknown
+BEAG,10.65,10.9,-2.3,Financial Services
+ACNB,65.95,67.51,-2.3,Financial Services
+BPRN,43.61,44.63,-2.3,Unknown
+HSIC,88.73,90.86,-2.3,Healthcare
+CROX,159.93,163.72,-2.3,Consumer Cyclical
+DRH,14.34,14.7,-2.4,Unknown
+GHC,1258.18,1288.78,-2.4,Consumer Defensive
+EWTX,47.56,48.74,-2.4,Unknown
+RVSB,6.52,6.68,-2.4,Financial Services
+CET,52.69,53.96,-2.4,Financial Services
+PGNY,36.27,37.15,-2.4,Healthcare
+CEPV,10.2,10.45,-2.4,Unknown
+UPS,111.47,114.18,-2.4,Industrials
+CME,311.74,319.37,-2.4,Unknown
+CWT,50.45,51.75,-2.5,Unknown
+MCK,1077.32,1105.04,-2.5,Unknown
+KHC,26.51,27.19,-2.5,Unknown
+LSBK,18.52,18.99,-2.5,Unknown
+MSGK,317.01,324.99,-2.5,Unknown
+AFRI,12.86,13.19,-2.5,Unknown
+TGTX,68.37,70.13,-2.5,Unknown
+RDWR,36.22,37.16,-2.5,Unknown
+XHR,21.66,22.22,-2.5,Unknown
+AVA,40.34,41.38,-2.5,Unknown
+TONT,11.01,11.3,-2.6,Unknown
+ES,72.55,74.51,-2.6,Unknown
+SBRA,21.16,21.73,-2.6,Unknown
+ENR,27.92,28.67,-2.6,Unknown
+NDAQ,107.07,110.02,-2.7,Financial Services
+CNI,126.4,129.88,-2.7,Unknown
+RSKD,10.16,10.44,-2.7,Technology
+TTC,105.92,108.84,-2.7,Industrials
+JVA,5.03,5.17,-2.7,Unknown
+UVE,47.95,49.29,-2.7,Unknown
+FWONA,103.15,105.98,-2.7,Unknown
+EPC,28.84,29.66,-2.8,Unknown
+SGHT,10.96,11.27,-2.8,Unknown
+RL,400.71,412.07,-2.8,Unknown
+MHK,152.19,156.6,-2.8,Unknown
+PCTY,179.33,184.46,-2.8,Unknown
+A,178.44,183.52,-2.8,Healthcare
+AII,28.98,29.82,-2.8,Unknown
+ALRM,66.07,67.96,-2.8,Unknown
+CTKB,6.4,6.59,-2.9,Unknown
+UTHR,590.67,608.49,-2.9,Unknown
+ACOG,9.47,9.75,-2.9,Unknown
+CBC,37.32,38.42,-2.9,Unknown
+KIDS,33.01,33.99,-2.9,Unknown
+FERG,256.99,264.74,-2.9,Unknown
+GUER,6.36,6.55,-2.9,Unknown
+BIIB,261.44,269.11,-2.9,Healthcare
+PPG,124.61,128.39,-2.9,Unknown
+SAIC,148.4,152.91,-2.9,Technology
+COLD,16.2,16.69,-2.9,Unknown
+PRCH,21.49,22.14,-2.9,Unknown
+MGLD,1.97,2.03,-3.0,Unknown
+MAR,415.77,428.44,-3.0,Consumer Cyclical
+QNBC,46.19,47.61,-3.0,Unknown
+EXPD,198.19,204.31,-3.0,Industrials
+MET,99.78,102.96,-3.1,Financial Services
+POLE,10.78,11.12,-3.1,Financial Services
+COSO,27.9,28.79,-3.1,Financial Services
+FUSB,16.66,17.2,-3.1,Unknown
+VVV,39.03,40.27,-3.1,Unknown
+AIG,82.23,84.95,-3.2,Unknown
+HNNA,10.05,10.38,-3.2,Unknown
+MANH,251.97,260.41,-3.2,Unknown
+SIBN,24.79,25.6,-3.2,Unknown
+KFII,10.63,10.98,-3.2,Financial Services
+CGON,84.71,87.5,-3.2,Unknown
+BSBK,9.13,9.43,-3.2,Unknown
+SWX,90.12,93.08,-3.2,Unknown
+FTV,66.11,68.34,-3.3,Technology
+LKFN,61.06,63.14,-3.3,Financial Services
+LEVI,24.49,25.33,-3.3,Consumer Cyclical
+PAG,213.13,220.45,-3.3,Consumer Cyclical
+IHS,8.44,8.73,-3.3,Real Estate
+CAC,57.58,59.56,-3.3,Financial Services
+NOMD,12.03,12.44,-3.3,Unknown
+CEPS,10.09,10.44,-3.4,Unknown
+EHC,137.67,142.51,-3.4,Healthcare
+UNP,298.38,309.19,-3.5,Industrials
+CBFV,39.68,41.11,-3.5,Financial Services
+TW,128.05,132.74,-3.5,Unknown
+BBY,102.58,106.28,-3.5,Unknown
+RMBI,15.59,16.16,-3.5,Unknown
+EVF,4.82,5.0,-3.5,Unknown
+KMB,109.45,113.38,-3.5,Unknown
+FMX,127.92,132.53,-3.5,Consumer Defensive
+ITW,285.08,295.41,-3.5,Unknown
+FWONK,107.16,111.17,-3.6,Unknown
+TRST,57.0,59.11,-3.6,Financial Services
+LLY,1392.22,1443.5,-3.6,Unknown
+HIG,139.78,145.04,-3.6,Unknown
+HLT,366.2,379.76,-3.6,Consumer Cyclical
+LYV,181.73,188.46,-3.6,Communication Services
+HYNE,18.39,19.08,-3.6,Unknown
+GEN,30.17,31.28,-3.6,Unknown
+CSX,51.16,53.08,-3.6,Industrials
+LIN,524.61,544.85,-3.7,Basic Materials
+JNJ,273.94,284.33,-3.7,Unknown
+HAYW,16.67,17.31,-3.7,Unknown
+BRX,31.13,32.32,-3.7,Real Estate
+KOD,110.38,114.68,-3.7,Healthcare
+GME,26.97,28.02,-3.7,Unknown
+INN,7.22,7.5,-3.7,Unknown
+CZR,29.26,30.41,-3.8,Consumer Cyclical
+PRGO,16.3,16.95,-3.8,Unknown
+BRO,78.43,81.5,-3.8,Unknown
+MORN,239.24,248.65,-3.8,Unknown
+AMPL,17.1,17.77,-3.8,Technology
+WCCB,61.1,63.5,-3.8,Unknown
+BAX,27.26,28.34,-3.8,Unknown
+VLOS,10.72,11.14,-3.8,Unknown
+PBA,49.37,51.36,-3.9,Unknown
+PCOR,74.56,77.62,-3.9,Technology
+CLST,17.45,18.15,-3.9,Financial Services
+RGR,50.6,52.63,-3.9,Unknown
+PRU,120.22,125.15,-3.9,Financial Services
+FNLC,35.7,37.15,-3.9,Financial Services
+SJM,130.06,135.54,-4.0,Unknown
+CZNC,27.42,28.56,-4.0,Unknown
+RBKB,12.78,13.31,-4.0,Unknown
+EPR,60.5,62.99,-4.0,Real Estate
+NDSN,321.02,334.43,-4.0,Industrials
+PLBC,61.52,64.1,-4.0,Financial Services
+XNCR,38.37,39.97,-4.0,Unknown
+SRCE,86.75,90.36,-4.0,Financial Services
+RUSHB,59.4,61.86,-4.0,Unknown
+CPA,148.7,155.11,-4.1,Unknown
+CNO,56.11,58.49,-4.1,Financial Services
+TSBK,46.09,48.06,-4.1,Financial Services
+HR,20.45,21.33,-4.1,Real Estate
+IRWD,5.17,5.39,-4.1,Unknown
+SSEA,10.53,10.99,-4.2,Unknown
+ADUS,122.53,127.94,-4.2,Healthcare
+HCSG,25.43,26.54,-4.2,Healthcare
+THC,280.65,292.97,-4.2,Unknown
+CZWI,23.26,24.28,-4.2,Financial Services
+JJSF,95.07,99.23,-4.2,Unknown
+D,67.99,70.97,-4.2,Unknown
+LSE,5.44,5.68,-4.2,Unknown
+REYN,25.58,26.69,-4.2,Consumer Cyclical
+INFU,14.63,15.28,-4.3,Unknown
+ESCA,21.46,22.42,-4.3,Consumer Cyclical
+JKHY,182.08,190.35,-4.3,Unknown
+LAMR,156.39,163.4,-4.3,Real Estate
+DSGX,91.86,95.99,-4.3,Unknown
+FBLA,16.54,17.29,-4.3,Financial Services
+UCB,36.03,37.66,-4.3,Unknown
+AZTA,46.78,48.9,-4.3,Unknown
+PNW,103.24,107.91,-4.3,Utilities
+COR,354.05,370.37,-4.4,Unknown
+BHC,8.52,8.91,-4.4,Unknown
+MGEE,80.01,83.68,-4.4,Unknown
+NECB,28.56,29.87,-4.4,Financial Services
+CHYM,33.03,34.55,-4.4,Technology
+ERIE,279.82,292.87,-4.5,Unknown
+NWN,51.77,54.19,-4.5,Utilities
+BANR,70.2,73.47,-4.5,Financial Services
+HELE,36.48,38.2,-4.5,Unknown
+KMDA,8.32,8.72,-4.5,Unknown
+INTA,45.81,47.99,-4.5,Unknown
+RTAC,10.51,11.0,-4.5,Unknown
+RRBI,102.96,107.77,-4.5,Unknown
+RLGT,9.41,9.85,-4.5,Industrials
+NJR,56.77,59.48,-4.5,Utilities
+ETON,65.23,68.4,-4.6,Unknown
+BSY,43.31,45.4,-4.6,Technology
+LARK,31.58,33.11,-4.6,Financial Services
+VREX,17.73,18.58,-4.6,Healthcare
+MICC,19.49,20.42,-4.6,Unknown
+AER,168.77,177.01,-4.7,Industrials
+CRBG,34.63,36.35,-4.7,Unknown
+EQH,53.18,55.79,-4.7,Unknown
+LGND,307.63,322.75,-4.7,Unknown
+CNK,39.41,41.36,-4.7,Communication Services
+CCBG,50.09,52.56,-4.7,Unknown
+OUT,32.1,33.67,-4.7,Unknown
+HST,24.88,26.11,-4.7,Unknown
+GIC,44.11,46.26,-4.7,Industrials
+CIVB,27.59,28.94,-4.7,Financial Services
+PKG,246.87,259.17,-4.7,Consumer Cyclical
+PB,71.14,74.62,-4.7,Financial Services
+FAST,52.93,55.55,-4.7,Unknown
+ICUI,178.52,187.26,-4.7,Unknown
+EFSI,44.43,46.61,-4.7,Financial Services
+MBWM,59.14,62.14,-4.8,Financial Services
+HBT,35.75,37.55,-4.8,Financial Services
+IRON,89.32,93.79,-4.8,Unknown
+PHM,134.84,141.65,-4.8,Unknown
+CATY,62.78,65.98,-4.8,Financial Services
+TRIN,17.31,18.19,-4.8,Financial Services
+PSTL,23.27,24.45,-4.8,Real Estate
+EGBN,32.8,34.44,-4.8,Financial Services
+MAIN,57.69,60.6,-4.8,Unknown
+BY,37.7,39.61,-4.8,Financial Services
+WMG,32.46,34.1,-4.8,Unknown
+VOYA,99.27,104.26,-4.8,Financial Services
+LNT,73.14,76.85,-4.8,Utilities
+MCBS,34.86,36.6,-4.8,Financial Services
+OSBC,24.58,25.83,-4.8,Financial Services
+OBT,38.48,40.42,-4.8,Unknown
+WABC,58.49,61.47,-4.9,Financial Services
+EML,30.21,31.76,-4.9,Unknown
+SSD,199.19,209.38,-4.9,Basic Materials
+RNR,344.87,362.59,-4.9,Financial Services
+CRCT,8.8,9.25,-4.9,Unknown
+TCBS,17.51,18.42,-4.9,Financial Services
+UTMD,72.88,76.66,-4.9,Healthcare
+ORLY,96.69,101.7,-4.9,Unknown
+CPBI,20.4,21.46,-4.9,Financial Services
+BFST,31.21,32.83,-4.9,Financial Services
+BCAL,21.11,22.19,-4.9,Financial Services
+VYX,10.56,11.11,-5.0,Unknown
+UBSI,46.86,49.31,-5.0,Financial Services
+CUZ,30.34,31.93,-5.0,Real Estate
+NBTB,51.32,54.0,-5.0,Financial Services
+RDN,37.21,39.16,-5.0,Unknown
+PFGC,110.84,116.65,-5.0,Consumer Defensive
